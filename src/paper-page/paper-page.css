@@ -1,0 +1,156 @@
+body, html {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+.year-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D0CECE;
+    padding: 10px;
+    margin: 0 20px;
+    border-bottom: 2px solid #ddd;
+    border-radius: 20px;
+    font-family: monospace;
+  }
+  
+  .list-cont {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0px 10px;
+    margin: 0;
+  }
+  
+  .list-cont li {
+    display: inline-block;
+    justify-content: space-between;
+  }
+  
+  .year-button {
+    background-color: transparent;
+    font-family: monospace;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .year-button:hover {
+    color: #575757;
+    text-decoration: underline;
+  }
+
+.paper-cont {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 0 20px;
+}
+
+.paper-indiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.paper-line {
+    color: #575757;
+}
+
+.paper-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    max-width: 100%;
+}
+
+.paper-authors{
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.paper-link a {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.paper-link a:hover {
+    text-decoration: underline;
+}
+
+.paper-indv-top {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    text-align: left; 
+    flex-wrap: wrap;
+    margin: 15px 0;
+}
+
+.paper-logo {
+    flex-shrink: 0;
+    margin-right: 15px;
+}
+
+.paper-logo img {
+    width: 60px;
+    height: auto;
+    border: black 1px solid;
+}
+
+.paperWords {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    flex: 1; 
+    min-width: 0;
+    max-width: 100%;
+}
+
+.paper-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    max-width: 100%; 
+}
+
+
+.small-screen {
+    display: none;
+}
+
+@media screen and (max-width: 680px) {
+    
+    .large-screen {
+        display: none;
+    }
+
+    .small-screen {
+        display: block;
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .year-dropdown {
+        font-size: 16px;
+        padding: 8px;
+        border-radius: 5px;
+        border: 1px solid red;
+    }
+} 
+
+
+  

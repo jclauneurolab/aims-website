@@ -1,0 +1,152 @@
+.newsPage {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.news-heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: red;
+    margin-bottom: 20px;
+}
+
+.news-line {
+    width: 100%;
+    height: 2px;
+    background-color: red;
+    border: none;
+}
+
+.news-title {
+    white-space: nowrap;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.news-cont {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    justify-content: center;
+    gap: 20px;
+    max-width: 90%;
+    margin: 0 auto; 
+}
+
+.news-indv {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #D0CECE;
+    border-radius: 20px;
+    padding: 15px;
+    max-width: 500px;
+    min-width: 300px;
+}
+
+.news-cont-indv {
+    display: flex;
+    flex-direction: row;
+}
+
+.news-img {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.news-pic {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.newsWords {
+    width: 50%;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.news-link a{
+    color: red;
+    text-decoration: none;
+}
+
+.news-link a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.read-more {
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    border: red 2px solid;
+    border-radius: 8px;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.read-more:hover {
+    color: white;
+    background-color: red;
+    transition: scale(1.05);
+}
+
+.news-modal-title {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.news-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .news-modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 500px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    position: relative;
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+  
+  .news-modal-header {
+    text-align: center;
+  }
+  
+  .news-modal-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 2px solid red;
+    object-fit: cover;
+  }
+
+  .news-modal-body {
+    margin: 5px 0;
+  }
+
+
+

@@ -1,0 +1,209 @@
+.peoplePage {
+    margin-top: 10px;
+}
+
+
+.people-heading {
+    color: red;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.people-heading-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    margin-top: 20px;
+}
+
+.people-heading-item {
+    font-size: 20px;
+    font-weight: bold;
+    color: #575757;
+    background-color: white; 
+    padding: 0px 10px;
+    position: absolute;
+    top: -8px;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: #575757;
+    border: none;
+}
+
+.section-cont {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    gap: 20px; 
+    width: 100%;
+    margin-top: 40px;
+    padding: 0 20px;
+}
+
+.person-cont {
+    display: flex;
+    flex-direction: row;
+    width: 45%; 
+    min-width: 300px; 
+}
+
+.headshot-img-cont {
+    width: 150px;
+    height: 150px;
+    border: 2px red solid;
+    border-radius: 50%;
+    overflow:hidden;
+    flex-shrink: 0;
+}
+
+.head-shot {
+    border-radius: 50%;
+    width: 150px;
+    object-fit: cover; 
+    flex-shrink: 0;
+}
+
+.words-cont {
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+.person-name {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.person-name:hover {
+    transform: scale(1.05); 
+}
+
+.person-position {
+    font-style: italic;
+    margin-bottom: 5px;
+    color: #575757;
+}
+
+.person-supervisor {
+    margin-top: 5px;
+}
+
+.social-cont {
+    display:flex;
+    width: 100%;
+    justify-content:flex-start;
+    margin-top: 10px;
+}
+
+.item-cont {
+    margin-right: 10px;
+}
+
+.icon-style{
+    color: black;
+    width: 25px;
+    height: 25px;
+    transition: color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+}
+
+.icon-style:hover {
+    color: #575757;
+    transform: scale(1.05); 
+}
+
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 500px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    position: relative;
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: #666;
+  }
+  
+  .close-button:hover {
+    color: black;
+  }
+  
+  .modal-header {
+    text-align: center;
+  }
+  
+  .modal-name {
+    margin: 10px 0;
+  }
+  
+  .modal-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid red;
+    object-fit: cover;
+  }
+  
+  .modal-body {
+    margin-top: 10px;
+  }
+  
+  .modal-body {
+    margin: 5px 0;
+  }
+  
+  .modal-body a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .modal-body a:hover {
+    text-decoration: underline;
+  }
+
+  .alumni-heading {
+    margin-top:20px;
+  }
+
+  .alumni-section {
+    margin-top:20px;
+  }
+
+@media screen and (max-width: 768px) {
+    .person-cont {
+        width: 100%;
+    }
+}

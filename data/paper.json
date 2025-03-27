@@ -1,0 +1,391 @@
+[
+    {
+        "title": "MRI-degad: toward accurate conversion of gadolinium-enhanced T1w MRIs to non-contrast-enhanced scans using CNNs",
+        "link": "https://link.springer.com/article/10.1007/s11548-024-03186-z",
+        "date": "2024-06-01",
+        "authors": "Ogunsanya et al., 2024",
+        "img": "/paper-images/ijcars.png"
+    },
+    {
+        "title": "Disrupting the epileptogenic network with stereoelectroencephalography‐guided radiofrequency thermocoagulation",
+        "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/epi.18005",
+        "date": "2024-05-13",
+        "authors": "Kreinter et al., 2024",
+        "img": "/paper-images/epilepsia.jpg"
+    },
+    {
+        "title": "Optimal hippocampal targeting in responsive neurostimulation for mesial temporal lobe epilepsy",
+        "link": "https://thejns.org/view/journals/j-neurosurg/aop/article-10.3171-2024.2.JNS231732/article-10.3171-2024.2.JNS231732.xml",
+        "date": "2024-04-26",
+        "authors": "Skelton et al., 2024",
+        "img": "/paper-images/jon.png"
+    },
+    {
+        "title": "The past, present, and future of the brain imaging data structure (BIDS)",
+        "link": "https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00103/119672",
+        "date": "2024-03-08",
+        "authors": "Poldrack et al., 2024",
+        "img": "/paper-images/in.png"
+    },
+    {
+        "title": "The impact of localization and registration accuracy on estimates of deep brain stimulation electrode position in stereotactic space",
+        "link": "https://www.medrxiv.org/content/10.1101/2024.03.01.24303286v1",
+        "date": "2024-03-02",
+        "authors": "Abbass et al., 2024",
+        "img": "/paper-images/medrxiv.png"
+    },
+    {
+        "title": "HippoMaps: Multiscale cartography of human hippocampal organization",
+        "link": "https://www.biorxiv.org/content/10.1101/2024.02.23.581734v2.abstract",
+        "date": "2024-02-23",
+        "authors": "DeKraker et al., 2024",
+        "img": "/paper-images/biorxiv.png"
+    },
+    {
+        "title": "Neural Ensembles in the Lateral Prefrontal Cortex Temporally Multiplex Task Features During Virtual Navigation",
+        "link": "https://www.biorxiv.org/content/10.1101/2024.01.10.574378v1.abstract",
+        "date": "2024-01-12",
+        "authors": "Abbass et al., 2024",
+        "img": "/paper-images/biorxiv.png"
+    },
+    {
+        "title": "Teaching NeuroImage: Unilateral Primary Angiitis of the CNS",
+        "link": "https://www.neurology.org/doi/full/10.1212/WNL.0000000000208018",
+        "date": "2024-01-09",
+        "authors": "Alkabie et al., 2024",
+        "img": "/paper-images/neurology.png"
+    },
+    {
+        "title": "Lack of spontaneous typical seizures during intracranial monitoring with stereo‐electroencephalography",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1002/epd2.20165",
+        "date": "2023-12-15",
+        "authors": "Bottan et al., 2023",
+        "img": "/paper-images/ed.jpg"
+    },
+    {
+        "title": "Involvement of the posterior cingulate gyrus in temporal lobe epilepsy: A study using stereo-EEG",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0920121123001626",
+        "date": "2023-12-01",
+        "authors": "Arévalo-Astrada et al., 2023",
+        "img": "/paper-images/er.jpg"
+    },
+
+    {
+        "title": "A population-averaged structural connectomic brain atlas dataset from 422 HCP-aging subjects",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2352340923006133",
+        "date": "2023-10-01",
+        "authors": "Xiao et al., 2023",
+        "img": "/paper-images/dib.png"
+    },
+    {
+        "title": "A method for chronic and semi-chronic microelectrode array implantation in deep brain structures using image guided neuronavigation",
+        "link": "https://www.sciencedirect.com/science/article/pii/S016502702300167X",
+        "date": "2023-09-01",
+        "authors": "Mahmoudian et al., 2023",
+        "img": "/paper-images/jonm.png"
+    },
+    {
+        "title": "Spinal Nerve Root Stimulation for Chronic Pain: A Systematic Review",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1094715923007110",
+        "date": "2023-08-28",
+        "authors": "Chalil et al., 2023",
+        "img": "/paper-images/nm.png"
+    },
+    {
+        "title": "Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration",
+        "link": "https://www.nature.com/articles/s41597-023-02330-9",
+        "date": "2023-07-12",
+        "authors": "Taha et al., 2023",
+        "img": "/paper-images/naturesd.svg"
+    },
+    {
+        "title": "A population-averaged structural connectomic brain atlas of 422 HCP-Aging subjects",
+        "link": "https://www.biorxiv.org/content/10.1101/2023.06.01.543240v1.abstract",
+        "date": "2023-06-05",
+        "authors": "Xiao et al., 2023",
+        "img": "/paper-images/biorxiv.png"
+    },
+    {
+        "title": "Automated hippocampal unfolding for morphometry and subfield segmentation with HippUnfold",
+        "link": "https://elifesciences.org/articles/77945",
+        "date": "2022-12-15",
+        "authors": "DeKraker et al., 2022",
+        "img": "/paper-images/elife.svg"
+    },
+    {
+        "title": "Mapping the subcortical connectome using in vivo diffusion MRI: Feasibility and reliability",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1053811922006681",
+        "date": "2022-11-15",
+        "authors": "Kai et al., 2022",
+        "img": "/paper-images/ni.png"
+    },
+    {
+        "title": "Surgical Interventions Targeting the Nucleus Caudalis for Craniofacial Pain: A Systematic and Historical Review",
+        "link": "https://www.sciencedirect.com/science/article/pii/S109471592201251X",
+        "date": "2022-10-01",
+        "authors": "Santyr et al., 2022",
+        "img": "/paper-images/nm.png"
+    },
+    {
+        "title": "Detection of local growth patterns in longitudinally imaged low-grade gliomas",
+        "link": "https://www.biorxiv.org/content/10.1101/2022.04.24.488099v1.abstract",
+        "date": "2022-04-24",
+        "authors": "Gui et al., 2022",
+        "img": "/paper-images/biorxiv.png"
+    },
+    {
+        "title": "HippUnfold: Automated hippocampal unfolding, morphometry, and subfield segmentation",
+        "link": "https://www.biorxiv.org/content/10.1101/2021.12.03.471134v1?versioned=true",
+        "date": "2022-03-16",
+        "authors": "DeKraker et al., 2022",
+        "img": "/paper-images/biorxiv.png"
+    },
+    {
+        "title": "Stereotactic spaces",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/B9780128218617000233",
+        "date": "2022-01-01",
+        "authors": "Lau et al., 2022",
+        "img": "/paper-images/cdbs.png"
+    },
+    {
+        "title": "Application of the anatomical fiducials framework to a clinical dataset of patients with Parkinson’s disease",
+        "link": "https://link.springer.com/article/10.1007/s00429-021-02408-3",
+        "date": "2021-10-23",
+        "authors": "Abbass et al., 2021",
+        "img": "/paper-images/bsf.png"
+    },
+    {
+        "title": "Effects of MP2RAGE B1+ sensitivity on inter-site T1 reproducibility and hippocampal morphometry at 7T",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1053811920308594",
+        "date": "2021-01-01",
+        "authors": "Haast et al., 2021",
+        "img": "/paper-images/ni.png"
+    },
+    {
+        "title": "Direct visualization and characterization of the human zona incerta and surrounding structures",
+        "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25137",
+        "date": "2020-11-13",
+        "authors": "Lau et al., 2020",
+        "img": "/paper-images/hbm.jpg"
+    },
+    {
+        "title": "Image Guidance in Deep Brain Stimulation Surgery to Treat Parkinson's Disease: A Comprehensive Review",
+        "link": "https://ieeexplore.ieee.org/abstract/document/9132702",
+        "date": "2020-07-02",
+        "authors": "Xiao et al., 2020",
+        "img": "/paper-images/ieeex.png"
+    },
+    {
+        "title": "Stereoelectroencephalography Versus Subdural Strip Electrode Implantations: Feasibility, Complications, and Outcomes in 500 Intracranial Monitoring Cases for Drug-Resistant Epilepsy",
+        "link": "https://journals.lww.com/neurosurgery/abstract/2020/07000/stereoelectroencephalography_versus_subdural_strip.24.aspx",
+        "date": "2020-07-01",
+        "authors": "Joswig et al., 2020",
+        "img": "/paper-images/cnsn.png"
+    },
+    {
+        "title": "Image guidance in deep brain stimulation surgery to treat Parkinson's disease: a review",
+        "link": "https://arxiv.org/pdf/2003.04822",
+        "date": "2020-03-10",
+        "authors": "Xiao et al., 2020"
+    },
+    {
+        "title": "Robot-Assisted Insular Depth Electrode Implantation Through Oblique Trajectories: 3-Dimensional Anatomical Nuances, Technique, Accuracy, and Safety",
+        "link": "https://journals.lww.com/onsonline/abstract/2020/03000/robot_assisted_insular_depth_electrode.6.aspx",
+        "date": "2020-03-01",
+        "authors": "Bottan et al., 2020",
+        "img": "/paper-images/cnson.png"
+    },
+    {
+        "title": "Effects of MP2RAGE B1+ sensitivity on inter-site T1 reproducibility and morphometry at 7T",
+        "link": "https://www.biorxiv.org/content/10.1101/2020.02.13.947382v1.abstract",
+        "date": "2020-02-14",
+        "authors": "Haast et al., 2020",
+        "img": "/paper-images/biorxiv.png"
+    },
+    {
+        "title": "Hippocampal subfields revealed through unfolding and unsupervised clustering of laminar and morphological features in 3D BigBrain",
+        "link": "https://www.sciencedirect.com/science/article/pii/S105381191930919X",
+        "date": "2020-02-01",
+        "authors": "DeKraker et al., 2020",
+        "img": "/paper-images/ni2.png"
+    },
+    {
+        "title": "Position Statement on the Use of Medical Cannabis for the Treatment of Epilepsy in Canada: By the Canadian League Against Epilepsy Medical Therapeutics Committee, Invited Experts and Collaborators",
+        "link": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/position-statement-on-the-use-of-medical-cannabis-for-the-treatment-of-epilepsy-in-canada/13C57EE11502474BB0F71089C1AB0D77",
+        "date": "2019-11-01",
+        "authors": "Appendino et al., 2019",
+        "img": "/paper-images/cjns.png"
+    },
+    {
+        "title": "An accurate registration of the BigBrain dataset with the MNI PD25 and ICBM152 atlases",
+        "link": "https://www.nature.com/articles/s41597-019-0217-0",
+        "date": "2019-10-17",
+        "authors": "Xiao et al., 2019",
+        "img": "/paper-images/naturesd.svg"
+    },
+    {
+        "title": "A framework for evaluating correspondence between brain images using anatomical fiducials",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24693",
+        "date": "2019-10-01",
+        "authors": "Lau et al., 2019",
+        "img": "/paper-images/hbm.jpg"
+    },
+    {
+        "title": "iEEG-BIDS, extending the Brain Imaging Data Structure specification to human intracranial electrophysiology",
+        "link": "https://www.nature.com/articles/s41597-019-0105-7",
+        "date": "2019-06-25",
+        "authors": "Holdgraf et al., 2019",
+        "img": "/paper-images/naturesd.svg"
+    },
+    {
+        "title": "Radiology reporting of low-grade glioma growth underestimates tumor expansion",
+        "link": "https://link.springer.com/article/10.1007/s00701-018-03783-3",
+        "date": "2019-02-13",
+        "authors": "Gui et al., 2019",
+        "img": "/paper-images/an.png"
+    },
+    {
+        "title": "Operative Complications with and without Image Guidance: A Systematic Review and Meta-Analysis of the Ommaya Reservoir Literature",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S187887501832583X",
+        "date": "2019-02-01",
+        "authors": "Lau et al., 2019",
+        "img": "/paper-images/wn.png"
+    },
+    {
+        "title": "Ultra-High Field Magnetic Resonance Imaging for Stereotactic Neurosurgery",
+        "link": "https://ir.lib.uwo.ca/etd/6194/",
+        "date": "2019-09-04",
+        "authors": "Lau et al., 2019",
+        "img": "/paper-images/wl.png"
+    },
+    {
+        "title": "Bridging micro and macro: accurate registration of the BigBrain dataset with the MNI PD25 and ICBM152 atlases",
+        "link": "https://www.biorxiv.org/content/10.1101/561118v2.abstract",
+        "date": "2019-02-25",
+        "authors": "Xiao et al., 2019",
+        "img": "/paper-images/biorxiv.png"
+    },
+    {
+        "title": "BIDS-iEEG: an extension to the brain imaging data structure (BIDS) specification for human intracranial electrophysiology",
+        "link": "https://osf.io/preprints/psyarxiv/r7vc2",
+        "date": "2018-12-13",
+        "authors": "Holdgraf et al., 2018",
+        "img": "/paper-images/paxp.png"
+    },
+    {
+        "title": "Impact of Functional Magnetic Resonance Imaging on Clinical Outcomes in a Propensity-Matched Low Grade Glioma Cohort",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S1878875018320540",
+        "date": "2018-12-01",
+        "authors": "Kosteniuk et al., 2018",
+        "img": "/paper-images/wn2.png"
+    },
+    {
+        "title": "Novel connectivity map normalization procedure for improved quantitative investigation of structural thalamic connectivity in temporal lobe epilepsy patients",
+        "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.26013",
+        "date": "2018-12-01",
+        "authors": "Santyr et al., 2018",
+        "img": "/paper-images/jmri.jpg"
+    },
+    {
+        "title": "AFIDs: an open framework for evaluating correspondence between magnetic resonance images of the human brain using fiducial placement",
+        "link": "https://f1000research.com/posters/7-1219",
+        "date": "2018-08-08",
+        "authors": "Lau et al., 2018",
+        "img": "/paper-images/f1000.png"
+    },
+    {
+        "title": "Tumor growth dynamics in serially-imaged low-grade glioma patients",
+        "link": "https://link.springer.com/article/10.1007/s11060-018-2857-x",
+        "date": "2018-08-01",
+        "authors": "Gui et al., 2018",
+        "img": "/paper-images/neuro-onc.png"
+    },
+    {
+        "title": "Customizable cap implants for neurophysiological experimentation",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0165027018301195",
+        "date": "2018-07-01",
+        "authors": "Blonde et al., 2018",
+        "img": "/paper-images/jonm.png"
+    },
+
+    {
+        "title": "Unfolding the hippocampus: An intrinsic coordinate system for subfield segmentations and quantitative mapping",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S1053811917309977",
+        "date": "2018-02-15",
+        "authors": "DeKraker et al., 2018",
+        "img": "/paper-images/ni3.png"
+    },
+   
+    {
+        "title": "Quantification of local geometric distortion in structural magnetic resonance images: Application to ultra-high fields",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S1053811916307911",
+        "date": "2018-03-01",
+        "authors": "Lau et al., 2018",
+        "img": "/paper-images/ni4.png"
+    },
+   
+    {
+        "title": "Image-guided Ommaya reservoir insertion for intraventricular chemotherapy: a retrospective series",
+        "link": "https://link.springer.com/article/10.1007/s00701-017-3454-z",
+        "date": "2018-03-01",
+        "authors": "Lau et al., 2018",
+        "img": "/paper-images/an.png"
+    },
+    {
+        "title": "Ultra-High Field Template-Assisted Target Selection for Deep Brain Stimulation Surgery",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S1878875017305387",
+        "date": "2017-07-01",
+        "authors": "Lau et al., 2017",
+        "img": "/paper-images/wn3.png"
+    },
+    {
+        "title": "Investigation of hippocampal substructures in focal temporal lobe epilepsy with and without hippocampal sclerosis at 7T",
+        "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.25447",
+        "date": "2017-05-01",
+        "authors": "Santyr et al., 2017",
+        "img": "/paper-images/jmri2.jpg"
+    },
+    {
+        "title": "Functional Magnetic Resonance Imaging for Preoperative Planning in Brain Tumour Surgery",
+        "link": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/functional-magnetic-resonance-imaging-for-preoperative-planning-in-brain-tumour-surgery/B5FCA5098B69A61F7633E56E45024493",
+        "date": "2017-01-01",
+        "authors": "Lau et al., 2017",
+        "img": "/paper-images/cjns.png"
+    },
+    {
+        "title": "A Framework for Patient-Specific Spinal Intervention Simulation: Application to Lumbar Spinal Durotomy Repair",
+        "link": "https://ebooks.iospress.nl/volumearticle/42530",
+        "date": "2016-04-19",
+        "authors": "Lau et al., 2016",
+        "img": "/paper-images/ios.png"
+    },
+    {
+        "title": "In vivo MRI signatures of hippocampal subfield pathology in intractable epilepsy",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23090",
+        "date": "2016-03-01",
+        "authors": "Goubran et al., 2016",
+        "img": "/paper-images/hbm3.jpg"
+    },
+    {
+        "title": "Individual feature maps: a patient-specific analysis tool with applications in temporal lobe epilepsy",
+        "link": "https://link.springer.com/article/10.1007/s11548-015-1258-2",
+        "date": "2016-01-01",
+        "authors": "Cantor-Rivera et al., 2016",
+        "img": "/paper-images/ijcars.png"
+    },
+    {
+        "title": "Paediatric Brainstem Cancers — Where We Have Been; Where We Are; Where We Are Going",
+        "link": "https://books.google.ca/books?hl=en&lr=&id=UiShDwAAQBAJ&oi=fnd&pg=PA31&ots=8gUpoS8Dls&sig=tzzSq5EBmfCizdVjZKCe2Bpm_9I#v=onepage&q&f=false",
+        "date": "2014-06-11",
+        "authors": "Ranger et al., 2016",
+        "img": "/paper-images/tocns.png"
+    },
+    {
+        "title": "Longitudinal neuroanatomical changes determined by deformation-based morphometry in a mouse model of Alzheimer's disease",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S1053811908005818",
+        "date": "2008-08-01",
+        "authors": "Lau et al., 2008",
+        "img": "/paper-images/ni5.png"
+    }
+
+]

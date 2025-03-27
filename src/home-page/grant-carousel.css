@@ -1,0 +1,28 @@
+.carousel-container {
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+  
+  .carousel {
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .carousel-item {
+    width: 150px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
