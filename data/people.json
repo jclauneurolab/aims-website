@@ -1,4 +1,3 @@
-
 {
     "Principal Investigator": [
         {
@@ -71,7 +70,6 @@
             },
             "bio": ""
         }
-        
     ],
     "Lab Members": [
         {
@@ -87,6 +85,20 @@
                 "email": "mailto:mackenziesnyder222@gmail.com"
             },
             "bio": "I am a research software developer co-op student in the lab and I am a biomedical engineering undergraduate student from the University of Waterloo. My work in the lab consists of assisting and contributing to various lab software projects in the field of computational neuro imaging."
+        },
+        {
+            "active": true,
+            "name": "Dhananjhay Bansal (Djay)",
+            "position": "Research Software Engineer",
+            "department": "Robarts Research Institute",
+            "supervisor": "Co-supervised by Dr. Ali Khan",
+            "img": "./people-images/Dhananjhay.jpg",
+            "socialLinks": {
+                "linkedin": "https://www.linkedin.com/in/dhananjhay-bansal-637105193/",
+                "github": "https://github.com/Dhananjhay",
+                "email": "mailto:dbansal7@uwo.ca"
+            },
+            "bio": "I am a junior astrophysicist turned research software engineer with experience developing telescope software (CASTOR, HIRAX). Now focused on computational neuroscience, I work on various neuroimaging projects at Robarts Research Institute, including AutoAFIDs and HippUnfold, building research-driven software tools."
         }
     ]
 }
