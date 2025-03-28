@@ -92,7 +92,7 @@
             "position": "Research Software Engineer",
             "department": "Robarts Research Institute",
             "supervisor": "Co-supervised by Dr. Ali Khan",
-            "img": "/people-images/Dhananjhay.png",
+            "img": "./people-images/Dhananjhay.jpg",
             "socialLinks": {
                 "linkedin": "https://www.linkedin.com/in/dhananjhay-bansal-637105193/",
                 "github": "https://github.com/Dhananjhay",
