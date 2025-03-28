@@ -6,7 +6,7 @@
         "github": "Test project github",
         "subheading": "short description of the project",
         "content": "long description of the project",
-        "img": "/project-images/test-image.png"
+        "img": "./project-images/test-image.png"
     },
     {
         "title": "Test Project",
@@ -15,7 +15,7 @@
         "github": "Test project github",
         "subheading": "short description of the project",
         "content": "long description of the project",
-        "img": "/project-images/test-image.png"
+        "img": "./project-images/test-image.png"
     },
     {
         "title": "Test Project",
@@ -24,7 +24,7 @@
         "github": "Test project github",
         "subheading": "short description of the project",
         "content": "long description of the project",
-        "img": "/project-images/test-image.png"
+        "img": "./project-images/test-image.png"
     }
 
 ]

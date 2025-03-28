@@ -1,35 +1,35 @@
 [
     { 
         "title": "NSERC", 
-        "img": "/grant-images/nserc.png" 
+        "img": "./grant-images/nserc.png" 
     },
     {   
         "title": "CIHR", 
-        "img": "/grant-images/cihr.png"  
+        "img": "./grant-images/cihr.png"  
     },
     { 
         "title": "Parkinson Canada", 
-        "img": "/grant-images/parkinson-canada.png"  
+        "img": "./grant-images/parkinson-canada.png"  
     },
     { 
         "title": "McGill Western: BrainsCAN", 
-        "img": "/grant-images/McWestern-grant.png" 
+        "img": "./grant-images/McWestern-grant.png" 
     },
     {   
         "title": "Digital Research Alliance", 
-        "img": "/grant-images/dga.svg"  
+        "img": "./grant-images/dga.svg"  
     },
     { 
         "title": "PSSO", 
-        "img": "/grant-images/psso.svg"  
+        "img": "./grant-images/psso.svg"  
     },
     { 
         "title": "Mitacs", 
-        "img": "/grant-images/mitacs.png" 
+        "img": "./grant-images/mitacs.png" 
     },
     { 
         "title": "CNS Neurosurg", 
-        "img": "/grant-images/cns-neurosurg.svg" 
+        "img": "./grant-images/cns-neurosurg.svg" 
     }
 
 ]

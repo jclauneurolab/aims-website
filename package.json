@@ -1,6 +1,5 @@
 {
   "name": "lab-website",
-  "homepage": "https://jclauneurolab.github.io/aims-website/",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",

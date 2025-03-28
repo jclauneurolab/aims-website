@@ -5,7 +5,7 @@
         "date": "2024-06-01",
         "subheading": "short description of the news",
         "content": "In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life.",
-        "img": "/news-images/test-image.png"
+        "img": "./news-images/test-image.png"
     },
     {
         "title": "Test Lab News",
@@ -13,7 +13,7 @@
         "date": "2024-06-01",
         "subheading": "short description of the news",
         "content": "In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life.",
-        "img": "/news-images/test-image.png"
+        "img": "./news-images/test-image.png"
     },
     {
         "title": "Test Lab News",
@@ -21,7 +21,7 @@
         "date": "2024-06-01",
         "subheading": "short description of the news",
         "content": "In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life.In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life. In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life. In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life.",
-        "img": "/news-images/test-image.png"
+        "img": "./news-images/test-image.png"
     }
 
 ]

@@ -80,7 +80,7 @@
             "position": "Research Software Developer Co-op Student",
             "department": "Biomedical Engineering",
             "supervisor": "Co-supervised by Dr. Ali Khan",
-            "img": "/people-images/mackenzie.png",
+            "img": "./people-images/mackenzie.png",
             "socialLinks": {
                 "linkedin": "https://www.linkedin.com/in/mackenzie-snyder-a92178220/",
                 "github": "https://github.com/mackenziesnyder",
