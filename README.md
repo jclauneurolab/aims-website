@@ -2,34 +2,29 @@
 
 ## To add content to the website:
 
-1. On Github: https://github.com/jclauneurolab/jclaulab.github.io fork a repo by selecting the 'Fork' button
+1. On Github: https://github.com/jclauneurolab/aims-website fork a repo by selecting the 'Fork' button
    <img width="557" alt="image" src="https://github.com/user-attachments/assets/f7c35bef-b5c0-481b-857f-a125983976ff" />
 
 2. Clone the fork you created with 
     ```bash
-    git clone https://github.com/{your-git-username}/jclaulab.github.io.git
+    git clone https://github.com/{your-git-username}/aims-website.git
     ```
 
 3. Make a new branch by running:
     ```bash
     git checkout main
-    git checkout -b your-branch-name
+    git branch your-branch-name
     ```
    (For example, `your-name-profile` if adding to the profile page)
 
-4. Navigate to the project directory:
-    ```bash
-    cd lab-website
-    ```
-
-5. Open up VSCode. If you are on the CBS server, enter:
+4. Open up VSCode. If you are on the CBS server, enter:
     ```bash
     code .
     ```
 
-6. Navigate to the `data` folder and open the `.json` file of the page you want to add content to.
+5. Navigate to the `data` folder and open the `.json` file of the page you want to add content to.
 
-7. Using the same formatting as within the rest of the `.json` file, add your content to the top of the sheet and save the file. A list of the content needed for each section is listed below. 
+6. Using the same formatting as within the rest of the `.json` file, add your content to the top of the sheet and save the file. A list of the content needed for each section is listed below. 
 
    For the images, navigate to the `public` folder, and add the image into the respective folders for the page.
 
@@ -104,15 +99,15 @@
 
 ## To create a pull request
 
-1. navigate to [https://github.com/jclauneurolab/jclaulab.github.io](https://github.com/jclauneurolab/jclaulab.github.io). 
-2. Go to the *Pull Requests* tab and click *New Pull Request*. Ensure that both the head and base repositories are set to `jclauneurolab/jclaulab.github.io`. 
+1. navigate to [https://github.com/jclauneurolab/aims-website](https://github.com/jclauneurolab/aims-website). 
+2. Go to the *Pull Requests* tab and click *New Pull Request*.
 3. On the right, select your branch. On the left, select the `main` branch. 
 4. Click *Create Pull Request*.
-5. On the right-hand side, there is a section called *Reviewers*. Add Mackenzie as a reviewer. She will check over the branch before merging.
+5. A website developer will check over the pull request and merge it into the site.
 6. That's it!
 
 ## For larger contrbutions: run the project in developer mode
-1. To run the project in developer mode, navigate to the `lab-website` directory using `cd lab-website`. 
+1. Clone the repository with `git clone https://github.com/jclauneurolab/aims-website.git`
 2. Use Node.js LTS version with `nvm use --lts`, which sets Node v22.14.0 and npm v10.9.2. 
 3. Install the required dependencies with `npm install`
 4. start the development server using `npm run dev`
