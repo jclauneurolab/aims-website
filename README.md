@@ -38,7 +38,7 @@
     "date": "2025-01-01",
     "subheading": "short description of the news", // around a one sentence summary
     "content": "long description of the news",
-    "img": "/news-images/test-image.png" // replace 'test-image.png' with the name of your image
+    "img": "./news-images/test-image.png" // replace 'test-image.png' with the name of your image
 }
 ```
 
@@ -50,7 +50,7 @@
         "link": "link to paper",
         "date": "2025-01-01",
         "authors": "Lau et al., 2024",
-        "img": "/paper-images/ijcars.png" //image of the published jounal - optional
+        "img": "./paper-images/ijcars.png" //image of the published jounal - optional
     },
 ```
 
@@ -63,7 +63,7 @@
         "position": "Undergraduate student, etc.",
         "department": "department",
         "supervisor": "co-supervised by...",
-        "img": "/people-images/your-image.png",
+        "img": "./people-images/your-image.png",
         "socialLinks": { //any of the social links are optional, if you do not have an account delete it from this section
             "linkedin": "link",
             "github": "link",
@@ -86,7 +86,7 @@
         "github": "Test project github", //optional
         "subheading": "short description of the project", // around a one sentence summary
         "content": "long description of the project",
-        "img": "/project-images/test-image.png"
+        "img": "./project-images/test-image.png"
     },
 ```
 
