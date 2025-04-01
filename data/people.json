@@ -42,7 +42,7 @@
             "position": "PhD Candidate",
             "department": "Biomedical Engineering",
             "supervisor": "Co-supervised by Dr. Ali Khan",
-            "img": "/people-images/alaa.png",
+            "img": "./people-images/alaa.png",
             "socialLinks": {
                 "linkedin": "https://www.linkedin.com/in/alaa-taha-6a504b305/",
                 "github": "https://github.com/ataha24",
