@@ -14,6 +14,7 @@
     ```bash
     git checkout main
     git branch your-branch-name
+    git checkout your-branch-name
     ```
    (For example, `your-name-profile` if adding to the profile page)
 

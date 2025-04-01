@@ -38,19 +38,19 @@
     "PhD Students": [
         {
             "active": true,
-            "name": "",
-            "position": "",
-            "department": "",
-            "supervisor": "",
-            "img": "/people-images/",
+            "name": "Alaa Taha",
+            "position": "PhD Candidate",
+            "department": "Biomedical Engineering",
+            "supervisor": "Co-supervised by Dr. Ali Khan",
+            "img": "/people-images/alaa.png",
             "socialLinks": {
-                "linkedin": "",
-                "github": "",
-                "email": "",
-                "orcid": "",
-                "google_scholar": ""
+                "linkedin": "https://www.linkedin.com/in/alaa-taha-6a504b305/",
+                "github": "https://github.com/ataha24",
+                "email": "mailto:ataha24@uwo.ca",
+                "orcid": "https://orcid.org/0000-0003-3165-9169",
+                "google_scholar": "https://scholar.google.com/citations?user=453eH-8AAAAJ&hl=en&oi=sra"
             },
-            "bio": ""
+            "bio": "Alaa's current research interests revolve around improving the accuracy and efficacy of neurosurgical interventions using ultra-high field imaging (>= 7-Tesla) and AI."
         }
     ],
     "Masters Students": [
