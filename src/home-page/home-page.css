@@ -1,5 +1,10 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
 .homePage {
-    min-height: 100vh;
     width: 100%;
     display: flex; 
     flex-direction: column; 
@@ -61,7 +66,8 @@ p {
 }
 
 .homePage-bottom {
-    height: 300px;
+    min-height: 300px;
+    height: auto;
     width: 100%;
 }
 
