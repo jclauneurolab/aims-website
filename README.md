@@ -94,14 +94,14 @@
 
 1. Navigate to your forked repo on GitHub.
 2. Go to the *Pull Requests* tab and click *New Pull Request*.
-3. Click *Create Pull Request*. Add an appropriate title and description.
+3. Click *Create Pull Request*. Add an appropriate title and description, and click on *Create Pull Request* once finished.
 4. A website developer will check over the pull request and merge it into the site.
 5. That's it!
 
 ## For larger contrbutions: run the project in developer mode
-1. Clone the repository with `git clone https://github.com/jclauneurolab/aims-website.git`
+1. Clone the repository with `git clone https://github.com/jclauneurolab/aims-website.git`.
 2. Use Node.js LTS version with `nvm use --lts`, which sets Node v22.14.0 and npm v10.9.2. 
-3. Install the required dependencies with `npm install`
-4. start the development server using `npm run dev`
+3. Install the required dependencies with `npm install`.
+4. start the development server using `npm run dev`.
 
 
