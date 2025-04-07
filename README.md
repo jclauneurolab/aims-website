@@ -86,15 +86,15 @@
 
 1. Once you are finished adding content, make sure you've saved all the files. 
 2. In the terminal, enter `git status` to see which files you’ve updated. 
-3. Add the files to your commit using `git add <file names>`. For example, `git add people-page.jsx`. To add everthing at once, run `git add .`
+3. Add the files to your commit using `git add <file names>`. For example, `git add people-page.jsx`. To add everthing at once, run `git add .`.
 4. Commit the changes with `git commit -m "enter a commit message here"`. For example, `git commit -m "added my profile"`. 
 5. Push the new changes to GitHub using `git push -u origin main`.
 
 ## To create a pull request
 
-1. Navigate to your forked repo. 
+1. Navigate to your forked repo on GitHub.
 2. Go to the *Pull Requests* tab and click *New Pull Request*.
-3. Click *Create Pull Request*.
+3. Click *Create Pull Request*. Add an appropriate title and description.
 4. A website developer will check over the pull request and merge it into the site.
 5. That's it!
 
