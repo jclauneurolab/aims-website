@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && echo 'jclauneurolab.io' > dist/CNAME",
     "deploy": "gh-pages -d dist --repo=https://x-access-token:${GITHUB_TOKEN}@github.com/jclauneurolab/aims-website.git",
     "build": "vite build",
     "preview": "vite preview"
