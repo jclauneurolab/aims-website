@@ -1,30 +1,20 @@
 [
     {
-        "title": "Test Project",
-        "authors": "test author",
-        "paper": "Test project link",
-        "github": "Test project github",
-        "subheading": "short description of the project",
-        "content": "long description of the project",
-        "img": "./project-images/test-image.png"
+        "title": "AutoAFIDS",
+        "authors": "Alaa Taha",
+        "paper": "https://pubmed.ncbi.nlm.nih.gov/31175816/",
+        "github": "https://github.com/afids/autoafids",
+        "subheading": "Automated tool for detecting anatomical fiducials (AFIDs) in brain MRI using deep learning.",
+        "content": "AutoAFIDS is a Python package which uses a standard 3D U-Net machine learning model based on Snakemake and SnakeBIDS workflow management tools that leverages the recent release of the anatomical fiducial framework to solve the landmark regression problem on 3D MRI images.",
+        "img": "./project-images/afids.png"
     },
     {
-        "title": "Test Project",
-        "authors": "test author",
-        "paper": "Test project link",
-        "github": "Test project github",
-        "subheading": "short description of the project",
-        "content": "long description of the project",
-        "img": "./project-images/test-image.png"
-    },
-    {
-        "title": "Test Project",
-        "authors": "test author",
-        "paper": "Test project link",
-        "github": "Test project github",
-        "subheading": "short description of the project",
-        "content": "long description of the project",
+        "title": "nnUNET_contact_seg",
+        "authors": "Arun Thurairajah",
+        "paper": "#",
+        "github": "https://github.com/arunthurai/nnUNet_contact_seg",
+        "subheading": "A modified nnU-Net pipeline for automated segmentation of contact sites in neuroimaging data.",
+        "content": "This project extends the nnU-Net framework to enable automated and accurate segmentation of contact sites—such as electrode contacts or anatomical markers—in neuroimaging datasets. It includes custom preprocessing, training, and postprocessing steps tailored for small, localized structures, providing an adaptable pipeline for neuroscience and clinical applications.",
         "img": "./project-images/test-image.png"
     }
-
 ]
