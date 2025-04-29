@@ -50,6 +50,21 @@
                 "google_scholar": "https://scholar.google.com/citations?user=453eH-8AAAAJ&hl=en&oi=sra"
             },
             "bio": "Alaa's current research interests revolve around improving the accuracy and efficacy of neurosurgical interventions using ultra-high field imaging (>= 7-Tesla) and AI."
+        },
+        {
+            "active": true,
+            "name": "Violet Liu",
+            "position": "MD-PhD Candidate",
+            "department": "Neuroscience",
+            "supervisor": "Co-supervised by Dr. Ali Khan",
+            "img": "./people-images/vmliu.jpg",
+            "socialLinks": {
+                "linkedin": "https://ca.linkedin.com/in/violet-liu-abbb2016b",
+                "github": "https://github.com/vmliu366",
+                "email": "mailto:mliu366@uwo.ca",
+                "orcid": "https://orcid.org/0000-0002-0150-0600"
+            },
+            "bio": "Violet's research interests include cross-modality characterization of the human subcortex for neurosurgical targeting, visualization via ultra-high field MRI, and diffusion MRI."
         }
     ],
     "Masters Students": [
