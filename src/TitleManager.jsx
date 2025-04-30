@@ -6,7 +6,7 @@ const routeTitles = {
     '/people': 'PEOPLE | Jclauneurolab',
     '/papers': 'PAPERS | Jclauneurolab',
     '/news': 'NEWS | Jclauneurolab',
-    '/projects': 'PROJECTS | Jclauneurolab',
+    '/software': 'SOFTWARE | Jclauneurolab',
     '/contact': 'CONTACT | Jclauneurolab',
 };
 
