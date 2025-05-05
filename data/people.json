@@ -113,6 +113,19 @@
                 "email": "mailto:dbansal7@uwo.ca"
             },
             "bio": "I am a junior astrophysicist turned research software engineer with experience developing telescope software (CASTOR, HIRAX). Now focused on computational neuroscience, I work on various neuroimaging projects at Robarts Research Institute, including AutoAFIDs and HippUnfold, building research-driven software tools."
+        },
+                {
+            "active": true,
+            "name": "Arun Thurairajah",
+            "position": "Neurophysiologist",
+            "department": "London Health Sciences Centre/Robarts Research Institute",
+            "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
+            "img": "./people-images/arun.JPG",
+            "socialLinks": {
+                "github": "https://github.com/arunthurai",
+                "email": "mailto:a.thurairajah1@gmail.com"
+            },
+            "bio": "I finished my Master's in Neuroscience with the AIMs and Khan Labs in 2024, where I used deep learning to segment intracranial electrode contacts from post-operative imaging. I currently support intraoperative neurophysiological monitoring for Deep Brain Stimulation at LHSC."
         }
     ]
 }
