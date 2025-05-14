@@ -84,6 +84,22 @@
             },
             "bio": ""
         }
+        {
+            "active": true,
+            "name": "Dilyar Deniz",
+            "position": "Master's Student",
+            "department": "Biomedical Engineering",
+            "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
+            "img": "/people-images/dilyar.jpg",
+            "socialLinks": {
+                "linkedin": "https://www.linkedin.com/in/dilyar-deniz-347843258/",
+                "github": "https://github.com/d-deniz",
+                "email": "mailto:ddeniz@uwo.ca",
+                "orcid": "",
+                "google_scholar": ""
+            },
+            "bio": "Hi! I'm a Master's student in the AIMS lab and is researching applications of dMRI on epilepsy. Specifically, I'm using dMRI to map out the limbic circuit reliably."
+        }
     ],
     "Lab Members": [
         {
