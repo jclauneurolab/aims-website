@@ -65,6 +65,20 @@
                 "orcid": "https://orcid.org/0000-0002-0150-0600"
             },
             "bio": "Violet's research interests include cross-modality characterization of the human subcortex for neurosurgical targeting, visualization via ultra-high field MRI, and diffusion MRI."
+        },
+
+        {
+        "active": true, 
+        "name": "Mohamad Ali Kesserwan",
+        "position": "PhD Candidate",
+        "department": "Neuroscience",
+        "supervisor": "Co-supervised by Dr. Lyle Muller",
+        "img": "./people-images/mk.png",
+        "socialLinks": { 
+            "github": "https://github.com/mkesserwan",
+            "email": "mailto:mkesserw@uwo.ca"
+        },
+            "bio": "Mohamad completed his Bachelor of Science with specialization in Human Biology from the University of Toronto. He then completed his Doctor of Medicine at McMaster Univerity, where he is currently completing his residency in Neurosurgery. Through McMaster's Clinician Investigator Program, Mohamad was able to join our lab to pursue a doctorate in computational neuroscience. Mohamad is particularly interested in advancing brain-machine interfaces to empower patients with neurological disabilities."
         }
     ],
     "Masters Students": [
