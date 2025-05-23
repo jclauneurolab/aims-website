@@ -35,7 +35,7 @@ const PeoplePage = () => {
                 {activeMembers.map((person, index) => (
                 <div className='person-cont' key={index}>
                     <div className='headshot-img-cont'>
-                    <img src={person.img} alt={`${person.name} headshot`} className='head-shot' />
+                    <img loading="lazy" src={person.img} alt={`${person.name} headshot`} className='head-shot' />
                     </div>
                     <div className='words-cont'>
                     <div className='person-name' onClick={() => openModal(person)}>

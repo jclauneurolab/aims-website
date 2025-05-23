@@ -67,7 +67,7 @@ const PaperPage = () => {
                             <div className='paper-indv-top'>
                             <div className='paper-logo'>
                                 {paper.img ? (
-                                        <img src={paper.img} alt="Paper" />
+                                        <img loading="lazy" src={paper.img} alt="Paper" />
                                 ) : null}
                                 </div>
                                 <div className='paperWords'>
