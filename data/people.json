@@ -156,7 +156,20 @@
                 "email": "mailto:a.thurairajah1@gmail.com"
             },
             "bio": "I finished my Master's in Neuroscience with the AIMs and Khan Labs in 2024, where I used deep learning to segment intracranial electrode contacts from post-operative imaging. I currently support intraoperative neurophysiological monitoring for Deep Brain Stimulation at LHSC."
-        }
+        },
+        {
+            "active": true,
+            "name": "Milad Khaki, PhD",
+            "position": "Research Data Scientist",
+            "department": "London Health Sciences Centre / Western University",
+            "supervisors": "Dr. Jonathan Lau and Dr. Lyle Muller",
+            "img": "./people-images/milad.png",
+            "socialLinks": {
+                "github": "https://github.com/mld-khaki",
+                "email": "mailto:mkhaki@uwo.ca"
+            },
+            "bio": "I am a research data scientist working at the intersection of neuroscience and data infrastructure. At LHSC, I support SEEG research and clinical workflows by developing scalable pipelines for data anonymization, format conversion, validation, and archival. My background and interest also extends to application of NLP, LLM, and deep learning models in clinical applications, as well as hardware integration for patient recording systems."
+        },
         {
             "active": true, //set active to false if an alumni
             "name": "Joy Zhao",
