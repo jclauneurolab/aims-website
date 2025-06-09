@@ -146,7 +146,7 @@
             "name": "Milad Khaki, PhD",
             "position": "Research Data Scientist",
             "department": "London Health Sciences Centre / Western University",
-            "supervisors": "Dr. Jonathan Lau and Dr. Lyle Muller",
+            "supervisor": "Dr. Jonathan Lau and Dr. Lyle Muller",
             "img": "./people-images/milad.png",
             "socialLinks": {
                 "github": "https://github.com/mld-khaki",
