@@ -153,6 +153,20 @@
                 "email": "mailto:mkhaki@uwo.ca"
             },
             "bio": "I am a research data scientist working at the intersection of neuroscience and data infrastructure. At LHSC, I support SEEG research and clinical workflows by developing scalable pipelines for data anonymization, format conversion, validation, and archival. My background and interest also extends to application of NLP, LLM, and deep learning models in clinical applications, as well as hardware integration for patient recording systems."
+        },
+        {
+            "active": true,
+            "name": "Homa Vahidi",
+            "position": "Former Lab Manager and Current Research Associate",
+            "department": "London Health Sciences Centre / Western University",
+            "supervisor": "Dr. Jonathan Lau and Dr. Emma Duerden",
+            "img": "./people-images/Homa.jpeg",
+            "socialLinks": {
+                "github": "https://github.com/homavahidi",
+                "linkedin": "https://www.linkedin.com/in/homavahidi",
+                "email": "mailto:hvahidi2@uwo.ca"
+            },
+            "bio": "I am the AIMS lab former lab manager and I continue to collaborate with the AIMS lab on several clinical and basic-science projects. I am currently a MD student at Stanford University."
         }
         
     ]
