@@ -157,5 +157,22 @@
             },
             "bio": "I finished my Master's in Neuroscience with the AIMs and Khan Labs in 2024, where I used deep learning to segment intracranial electrode contacts from post-operative imaging. I currently support intraoperative neurophysiological monitoring for Deep Brain Stimulation at LHSC."
         }
+        {
+            "active": true, //set active to false if an alumni
+            "name": "Joy Zhao",
+            "position": "Undergraduate Student",
+            "department": "Schulich Medicine and Dentistry",
+            "supervisor": "co-supervised by...",
+            "img": "./people-images/your-image.png",
+            "socialLinks": { //any of the social links are optional, if you do not have an account delete it from this section
+                "linkedin": "https://www.linkedin.com/in/joyzhao03/",
+                "github": "link",
+                "email": "yzha4825@uwo.ca",
+                "orcid": "",
+                "google_scholar": "",
+                "twitterx": "",
+            },
+                "bio": "I am recent graduate from Western’s Medical Sciences program (physiology specialization with Scholar’s Elective program) and will be beginning medical school in fall 2025. Currently, I’m working on an AFIDs project to increase the accuracy of image registration quality control and improve the standardization of neuroimaging workflows. My research interests are in neuroimaging, neurodegenerative diseases, and recently healthcare technology."
+        }
     ]
 }
