@@ -19,19 +19,19 @@
     "Post Docs": [
         {
             "active": true,
-            "name": "",
-            "position": "",
-            "department": "",
-            "supervisor": "",
-            "img": "/people-images/",
+            "name": "Diego B. Piza, MD, PhD",
+            "position": "Postdoctoral Fellow",
+            "department": "Clinical Neurological Sciences",
+            "supervisor": "Co-supervised by Dr. Julio Martinez-Trujillo",
+            "img": "./people-images/diego.jpg",
             "socialLinks": {
-                "linkedin": "",
-                "github": "",
-                "email": "",
-                "orcid": "",
-                "google_scholar": ""
+                "linkedin": "https://www.linkedin.com/in/diegobpiza/",
+                "github": "https://github.com/DiegoPiza",
+                "email": "dbuitra2@uwo.ca",
+                "orcid": "https://orcid.org/0000-0001-6778-8953",
+                "google_scholar": "https://scholar.google.com/citations?user=zEI4nywAAAAJ&hl=en"
             },
-            "bio": ""
+            "bio": "Diego's research is broadly centred on leveraging electrophysiology, data science and systems neuroscience to help understand brain function in health and disease "
         }
     ],
     "PhD Students": [
