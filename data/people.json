@@ -167,7 +167,19 @@
                 "email": "mailto:hvahidi2@uwo.ca"
             },
             "bio": "I am the AIMS lab former lab manager and I continue to collaborate with the AIMS lab on several clinical and basic-science projects. I am currently a MD student at Stanford University."
+        },
+        {
+            "active": true, //set active to false if an alumni
+            "name": "Joy Zhao",
+            "position": "Undergraduate Student",
+            "department": "Schulich Medicine and Dentistry",
+            "supervisor": "Dr. Jonathan Lau",
+            "img": "./people-images/Joy.png",
+            "socialLinks": { //any of the social links are optional, if you do not have an account delete it from this section
+                "linkedin": "https://www.linkedin.com/in/joyzhao03/",
+                "email": "mailto:yzha4825@uwo.ca",
+            },
+                "bio": "I am recent graduate from Western’s Medical Sciences program (physiology specialization with Scholar’s Elective program) and will be beginning medical school in fall 2025. Currently, I’m working on an AFIDs project to increase the accuracy of image registration quality control and improve the standardization of neuroimaging workflows. My research interests are in neuroimaging, neurodegenerative diseases, and recently healthcare technology."
         }
-        
     ]
 }
