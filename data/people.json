@@ -103,8 +103,8 @@
             "name": "Dilyar Deniz",
             "position": "Master's Student",
             "department": "Biomedical Engineering",
-            "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
-            "img": "/people-images/dilyar.jpg",
+            "supervisor": "Co-supervised by Dr. Ali Khan",
+            "img": "./people-images/dilyar.jpg",
             "socialLinks": {
                 "linkedin": "https://www.linkedin.com/in/dilyar-deniz-347843258/",
                 "github": "https://github.com/d-deniz",
