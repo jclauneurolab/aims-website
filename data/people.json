@@ -84,27 +84,11 @@
     "Masters Students": [
         {
             "active": true,
-            "name": "",
-            "position": "",
-            "department": "",
-            "supervisor": "",
-            "img": "/people-images/",
-            "socialLinks": {
-                "linkedin": "",
-                "github": "",
-                "email": "",
-                "orcid": "",
-                "google_scholar": ""
-            },
-            "bio": ""
-        },
-        {
-            "active": true,
             "name": "Dilyar Deniz",
             "position": "Master's Student",
             "department": "Biomedical Engineering",
             "supervisor": "Co-supervised by Dr. Ali Khan",
-            "img": "./people-images/dilyar.jpg",
+            "img": "./people-images/dilyar.png",
             "socialLinks": {
                 "linkedin": "https://www.linkedin.com/in/dilyar-deniz-347843258/",
                 "github": "https://github.com/d-deniz",
@@ -171,7 +155,7 @@
             "bio": "I am a research data scientist working at the intersection of neuroscience and data infrastructure. At LHSC, I support SEEG research and clinical workflows by developing scalable pipelines for data anonymization, format conversion, validation, and archival. My background and interest also extends to application of NLP, LLM, and deep learning models in clinical applications, as well as hardware integration for patient recording systems."
         },
         {
-            "active": true,
+            "active": false,
             "name": "Homa Vahidi",
             "position": "Former Lab Manager and Current Research Associate",
             "department": "London Health Sciences Centre / Western University",
