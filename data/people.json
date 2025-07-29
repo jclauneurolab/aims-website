@@ -2,7 +2,7 @@
     "Principal Investigator": [
         {
             "active": true,
-            "name": "Jonathan Lau, MD, PhD, FRCSC",
+            "name": "Jonathan C. Lau, MD, PhD, FRCSC",
             "position": "Assistant Professor of Neurosurgery, Western University",
             "department": " Clinical Neurological Sciences",
             "img": "/people-images/Jclau.png",
@@ -13,7 +13,7 @@
                 "orcid": "https://orcid.org/0000-0002-8452-8915",
                 "google_scholar": "https://scholar.google.ca/citations?user=69lqJ4AAAAAJ&hl=en"
             },
-            "bio": "I'm an MD and PhD trained neurosurgeon who returned to Western University in 2021, where I've been appointed the Assistant Professor of Neurosurgery in the Department of Clinical Neurological Sciences. I completed my neurosurgery residency at Western University followed by a Functional and Epilepsy neurosurgery fellowship at Emory University focussed on advanced surgical neuromodulation (laser ablation, deep brain stimulation, closed loop devices, robotic surgery) for which I received the Royal College Detweiler traveling scholarship. I previously completed my Doctoral degree in biomedical engineering on the topic of image-guided neurosurgery for which I was awarded a Canadian Institutes of Health Research Banting and Best Doctoral scholarship."
+            "bio": "Jonathan Lau is an MD and PhD trained neurosurgeon and researcher in the Department of Clinical Neurological Sciences at Western University with cross-appointments to Biomedical Engineering and Neuroscience. He runs the AIMS lab at Western University focussed on using anatomy and informatics approaches to improve modulation and surgery in the clinical neurosciences. He is a certified Fellow of the Royal College of Surgeons of Canada (FRCSC) and received the Royal College Detweiler traveling scholarship to complete further subspecialty training at Emory University in epilepsy as well as stereotactic and functional neurosurgery. His research focuses on acquiring and leveraging multimodal datasets (imaging and electrophysiology), with the goal of offering increasingly focal treatment options that maximize benefit while minimizing side effects."
         }
     ],
     "Post Docs": [
@@ -31,7 +31,7 @@
                 "orcid": "https://orcid.org/0000-0001-6778-8953",
                 "google_scholar": "https://scholar.google.com/citations?user=zEI4nywAAAAJ&hl=en"
             },
-            "bio": "Diego's research is broadly centred on leveraging electrophysiology, data science and systems neuroscience to help understand brain function in health and disease "
+            "bio": "Diego's research is broadly centred on leveraging electrophysiology, data science and systems neuroscience to help understand brain function in health and disease."
         }
     ],
     "PhD Students": [
