@@ -23,8 +23,14 @@
     border: none;
 }
 
-.news-title {
+.news-subtitle {
     white-space: nowrap;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.news-title {
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 10px;
@@ -60,6 +66,7 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    border-radius: 5px;
 }
 
 .news-pic {
@@ -137,8 +144,8 @@
   }
   
   .news-modal-image {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 10px;
     border: 2px solid red;
     object-fit: cover;

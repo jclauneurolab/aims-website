@@ -19,7 +19,7 @@ const ProjectPage = () => {
         <div className='newsPage'>
             <div className='news-heading'>
                 <hr className="news-line" />
-                <div className='news-title'>
+                <div className='news-subtitle'>
                     AIMS Software
                 </div>
                 <hr className="news-line" />

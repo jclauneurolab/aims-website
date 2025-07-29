@@ -18,7 +18,7 @@ const NewPage = () => {
         <div className='newsPage'>
             <div className='news-heading'>
                 <hr className="news-line" />
-                <div className='news-title'>
+                <div className='news-subtitle'>
                     AIMS News
                 </div>
                 <hr className="news-line" />
