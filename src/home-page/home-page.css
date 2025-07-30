@@ -58,7 +58,7 @@ p {
 .img-cont {
     width: 100%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center; 
 }
 
 .design {
@@ -166,6 +166,35 @@ p {
 .home-line {
     margin-top: 10px;
 }
+
+.sponsor-container {
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+  
+  .sponsor {
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transition: transform 0.5s ease-in-out;
+    gap:10px;
+  }
+  
+  .sponsor-item {
+    width: 150px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .sponsor-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
 
 .footer {
     height: 50px;
