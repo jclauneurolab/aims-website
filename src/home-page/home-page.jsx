@@ -1,11 +1,12 @@
 import React, {useState} from 'react';
 import {Link} from 'react-router-dom';
 import './home-page.css';
-import design from '/design.png';
+import design from '/bullseye.png';
 import newsData from '/data/news.json'
 import paperData from '/data/paper.json'
-import GrantCarousel from './grant-carousel';
+// import GrantCarousel from './grant-carousel';
 import NewsModal from '../news-page/news-modal';
+import grants from '/data/grants.json';
 
 const HomePage = () => {
 
@@ -100,7 +101,16 @@ const HomePage = () => {
                     </div>
                 </div>
                 <div className='homePage-bottom-bottom'>
-                    <GrantCarousel/>
+                    <div className="sponsor-container">
+                        <div className="sponsor">
+                            {grants.map(grant => (
+                            <div className="sponsor-item" key={grant.id}>
+                                <img src={grant.img} alt={grant.title} />
+                            </div>
+                            ))}
+                        </div>
+                    </div>
+                    {/* <GrantCarousel/> */}
                 </div>
                 <div className='footer'></div>
             </div>
