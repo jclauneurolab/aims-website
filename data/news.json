@@ -16,12 +16,25 @@
         "img": "./news-images/20250722_Middlebrooks.png"
     },
     {
-        "title": "Test Lab News",
-        "link": "https://link.springer.com/article/10.1007/s11548-024-03186-z",
-        "date": "2024-06-01",
-        "subheading": "short description of the news",
-        "content": "In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life.In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life. In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life. In a surprising turn of events, a small town in northern Canada has declared an annual 'Squirrel Appreciation Day' after a particularly bold squirrel saved a local bakery from disaster. According to witnesses, the squirrel chewed through a power line just in time to prevent an electrical surge that could have destroyed the bakery’s ovens. The heroic rodent, now affectionately named ‘Biscuit,’ has become a local celebrity, with residents organizing a festival in its honor. The event will feature nut-themed desserts, a tiny squirrel obstacle course, and a statue unveiling in the town square. Organizers hope that the festival will bring the community together and remind everyone of the unexpected ways nature interacts with daily life.",
+        "title": "Marie and Arun Graduate",
+        "date": "2025-06-11",
+        "subheading": "Congrats Marie and Arun!!",
+        "content": "Congrats Marie and Arun!!.",
+        "img": "./news-images/marie_and_arun_graduate.png"
+    },
+    {
+        "title": "Francis Chan Humanitarian Prize",
+        "date": "2025-05-21",
+        "subheading": "Marie recieves Francis Chan Humanitarian Prize",
+        "content": "We are thrilled to inform you that you have been selected as the recipient of the 2025 Anatomy and Cell Biology, Clinical Anatomy ‘Francis Chan Humanitarian Prize’!",
+        "img": "./news-images/test-image.png"
+    },
+    {
+        "title": "BrainsCAN Summer Intern Scholarship",
+        "link":"https://brainscan.uwo.ca/research/interns.html#JoyZhao",
+        "date": "2025-05-01",
+        "subheading": "Joy recieves BrainsCAN Summer Intern Scholarship",
+        "content": "Joy recieves BrainsCAN Summer Intern Scholarship",
         "img": "./news-images/test-image.png"
     }
-
 ]
