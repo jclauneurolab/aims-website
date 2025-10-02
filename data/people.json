@@ -101,7 +101,7 @@
     ],
     "Lab Members": [
         {
-            "active": true,
+            "active": false,
             "name": "Mackenzie Snyder",
             "position": "Research Software Developer Co-op Student",
             "department": "Biomedical Engineering",
