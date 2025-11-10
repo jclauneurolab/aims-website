@@ -182,6 +182,18 @@
         },
         {
             "active": false,
+            "name": "Wenyao Xia",
+            "position": "Former Post-doc Associate",
+            "department": "Robarts Research Institute / Western University",
+            "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
+            "img": "./people-images/Wenyao.jpeg",
+            "socialLinks": {
+                "email": "mailto:wxia43@uwo.ca"
+            },
+            "bio": "I am the former collaborating post-doc associate on the 3D-2D cortical image registration project. My research interests include image processing, registration for surgical guidance, and image artifact removal"
+        },
+        {
+            "active": false,
             "name": "Feyi Ogunsanya",
             "position": "Former Undergraduate Student",
             "department": "Medical Biophysics",
