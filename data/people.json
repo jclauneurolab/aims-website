@@ -180,6 +180,18 @@
                 "email": "mailto:yzha4825@uwo.ca"
             },
                 "bio": "I am recent graduate from Western’s Medical Sciences program (physiology specialization with Scholar’s Elective program) and will be beginning medical school in fall 2025. Currently, I’m working on an AFIDs project to increase the accuracy of image registration quality control and improve the standardization of neuroimaging workflows. My research interests are in neuroimaging, neurodegenerative diseases, and recently healthcare technology."
+        },
+        {
+            "active": false,
+            "name": "Wenyao Xia",
+            "position": "Former Post-doc Associate",
+            "department": "Robarts Research Institute / Western University",
+            "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
+            "img": "./people-images/Wenyao.jpeg",
+            "socialLinks": {
+                "email": "mailto:wxia43@uwo.ca"
+            },
+            "bio": "I am the former collaborating post-doc associate on the 3D-2D cortical image registration project. My research interests include image processing, registration for surgical guidance, and image artifact removal"
         }
     ]
 }
