@@ -183,6 +183,22 @@
         },
         {
             "active": false,
+            "name": "Jason Kai, PhD",
+            "position": "Research Software Developer",
+            "department": "Robarts Research Institute",
+            "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
+            "img": "https://github.com/kaitj/kaitj.github.io/blob/8f262dfb7ab4b43f30e5fcac3d103d80950991dd/frontend/src/lib/assets/images/headshot.jpg?raw=true",
+            "socialLinks": {
+                "linkedin": "https://www.linkedin.com/in/jasonkai",
+                "github": "https://github.com/kaitj",
+                "email": "mailto:jasonkai7@gmail.com",
+                "orcid": "https://orcid.org/0000-0002-7074-6348",
+                "google_scholar": "https://scholar.google.com/citations?user=IZrvr8kAAAAJ&hl=en"
+            },
+                "bio": "After completing my PhD in the Khan Lab, I continued as a research software developer with the Khan and AIMs Labs, building tools to support neuroscience research. I’m now a postdoctoral fellow at the Child Mind Institute, where I develop methods to study how brain structure and function interact and engineer scalable infrastructure to make large-scale research more reproducible"
+        },
+        {
+            "active": false,
             "name": "Wenyao Xia",
             "position": "Former Post-doc Associate",
             "department": "Robarts Research Institute / Western University",
