@@ -186,7 +186,7 @@
             "position": "Research Software Developer",
             "department": "Robarts Research Institute",
             "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
-            "img": "https://github.com/kaitj/kaitj.github.io/blob/8f262dfb7ab4b43f30e5fcac3d103d80950991dd/frontend/src/lib/assets/images/headshot.jpg?raw=true",
+            "img": "./people-images/jason.jpg",
             "socialLinks": {
                 "linkedin": "https://www.linkedin.com/in/jasonkai",
                 "github": "https://github.com/kaitj",
