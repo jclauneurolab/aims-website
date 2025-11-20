@@ -66,18 +66,17 @@
             },
             "bio": "Violet's research interests include cross-modality characterization of the human subcortex for neurosurgical targeting, visualization via ultra-high field MRI, and diffusion MRI."
         },
-
         {
-        "active": true, 
-        "name": "Mohamad Ali Kesserwan",
-        "position": "PhD Candidate",
-        "department": "Neuroscience",
-        "supervisor": "Co-supervised by Dr. Lyle Muller",
-        "img": "./people-images/mk.png",
-        "socialLinks": { 
-            "github": "https://github.com/mkesserwan",
-            "email": "mailto:mkesserw@uwo.ca"
-        },
+            "active": true,
+            "name": "Mohamad Ali Kesserwan",
+            "position": "PhD Candidate",
+            "department": "Neuroscience",
+            "supervisor": "Co-supervised by Dr. Lyle Muller",
+            "img": "./people-images/mk.png",
+            "socialLinks": {
+                "github": "https://github.com/mkesserwan",
+                "email": "mailto:mkesserw@uwo.ca"
+            },
             "bio": "Mohamad completed his Bachelor of Science with specialization in Human Biology from the University of Toronto. He then completed his Doctor of Medicine at McMaster Univerity, where he is currently completing his residency in Neurosurgery. Through McMaster's Clinician Investigator Program, Mohamad was able to join our lab to pursue a doctorate in computational neuroscience. Mohamad is particularly interested in advancing brain-machine interfaces to empower patients with neurological disabilities."
         }
     ],
@@ -128,7 +127,7 @@
             },
             "bio": "I am a junior astrophysicist turned research software engineer with experience developing telescope software (CASTOR, HIRAX). Now focused on computational neuroscience, I work on various neuroimaging projects at Robarts Research Institute, including AutoAFIDs and HippUnfold, building research-driven software tools."
         },
-                {
+        {
             "active": true,
             "name": "Arun Thurairajah",
             "position": "Neurophysiologist",
@@ -208,6 +207,20 @@
                 "email": "mailto:wxia43@uwo.ca"
             },
             "bio": "I am the former collaborating post-doc associate on the 3D-2D cortical image registration project. My research interests include image processing, registration for surgical guidance, and image artifact removal"
+        },
+        {
+            "active": false,
+            "name": "Feyi Ogunsanya",
+            "position": "Former Undergraduate Student",
+            "department": "Medical Biophysics",
+            "supervisor": "Dr. Jonathan Lau",
+            "img": "./people-images/feyi.png",
+            "socialLinks": {
+                "github": "https://github.com/fogunsan",
+                "linkedin": "https://www.linkedin.com/in/feyiogunsanya/",
+                "email": "mailto:feyi.ogunsanya@gmail.com"
+            },
+            "bio": "I was a former medical biophysics undergraduate student in the AIMS Lab and researched MRI modality conversion. I did my Master’s in Computer Science at Georgia Tech, focusing on brain-computer interface research. I’m currently a Machine Learning Engineer at Waymo."
         }
     ]
 }
