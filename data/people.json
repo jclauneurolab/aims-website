@@ -196,6 +196,18 @@
                 "google_scholar": "https://scholar.google.com/citations?user=IZrvr8kAAAAJ&hl=en"
             },
                 "bio": "After completing my PhD in the Khan Lab, I continued as a research software developer with the Khan and AIMs Labs, building tools to support neuroscience research. I’m now a postdoctoral fellow at the Child Mind Institute, where I develop methods to study how brain structure and function interact and engineer scalable infrastructure to make large-scale research more reproducible"
+        },
+        {
+            "active": false,
+            "name": "Wenyao Xia",
+            "position": "Former Post-doc Associate",
+            "department": "Robarts Research Institute / Western University",
+            "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
+            "img": "./people-images/wenyao.jpg",
+            "socialLinks": {
+                "email": "mailto:wxia43@uwo.ca"
+            },
+            "bio": "I am the former collaborating post-doc associate on the 3D-2D cortical image registration project. My research interests include image processing, registration for surgical guidance, and image artifact removal"
         }
     ]
 }
