@@ -113,20 +113,33 @@
     }
     ],
     "Lab Members": [
-        {
-        "active": true, 
+            {
+        "active": true,
+        "name": "Derek D. George, MD",
+        "position": "Visiting Research Fellow",
+        "department": "London Health Sciences Centre/Robarts Research Institute",
+        "supervisor": "Dr. Jonathan Lau",
+        "img": "./people-images/Derek.JPG",
+        "socialLinks": {
+            "github": "https://github.com/Derbedog",
+            "email": "mailto:derek_george@urmc.rochester.edu"
+        },
+        "bio": "I am a PGY-6 neurosurgery resident at the University of Rochester, NY, USA. Through the AMPLify grant from the American Society for Stereotactic and Functional Neurosurgery (ASSFN), I am spending 3 months in the AIMS lab working on projects related to 7TMRI and stereoelectroencephalography (SEEG)."
+    },
+    {
+        "active": true,
         "name": "Jaime Thrower",
         "position": "Research Software Developer Co-op Student",
         "department": "Biomedical Engineering",
         "supervisor": "Co-supervised by Dr. Ali Khan",
         "img": "./people-images/jaime.png",
-        "socialLinks": { 
+        "socialLinks": {
             "linkedin": "https://www.linkedin.com/in/jaime-thrower-a09528220/",
             "github": "https://github.com/thrower19",
-            "email": "mailto:jthrower@uwaterloo.ca" 
+            "email": "mailto:jthrower@uwaterloo.ca"
         },
-            "bio": "I am a University of Waterloo biomedical engineering student and I am working as a research software developer for my co-op placement. I assist with various software projects in the field of Computational Neuroimaging."
-        },    
+        "bio": "I am a University of Waterloo biomedical engineering student and I am working as a research software developer for my co-op placement. I assist with various software projects in the field of Computational Neuroimaging."
+    },    
         {
             "active": false,
             "name": "Mackenzie Snyder",
