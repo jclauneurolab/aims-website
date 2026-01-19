@@ -96,7 +96,21 @@
                 "google_scholar": ""
             },
             "bio": "Hi! I'm a Master's student in the AIMS lab and is researching applications of dMRI on epilepsy. Specifically, I'm using dMRI to map out the limbic circuit reliably."
-        }
+        },
+        {
+        "active": true, 
+        "name": "Maye Hussein",
+        "position": "Master's Student",
+        "department": "Biomedical Engineering",
+        "supervisor": "Co-supervised by Dr. Ali Khan",
+        "img": "./people-images/Maye.jpeg",
+        "socialLinks": { 
+            "linkedin": "https://eg.linkedin.com/in/mayekhaled0",
+            "github": "https://github.com/mayekhaled0/",
+            "email": "mkhaled5@uwo.ca"
+        },
+            "bio": "I earned my Bachelor's degree in Biomedical Engineering from Cairo University"
+    }
     ],
     "Lab Members": [
         {
