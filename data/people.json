@@ -66,18 +66,17 @@
             },
             "bio": "Violet's research interests include cross-modality characterization of the human subcortex for neurosurgical targeting, visualization via ultra-high field MRI, and diffusion MRI."
         },
-
         {
-        "active": true, 
-        "name": "Mohamad Ali Kesserwan",
-        "position": "PhD Candidate",
-        "department": "Neuroscience",
-        "supervisor": "Co-supervised by Dr. Lyle Muller",
-        "img": "./people-images/mk.png",
-        "socialLinks": { 
-            "github": "https://github.com/mkesserwan",
-            "email": "mailto:mkesserw@uwo.ca"
-        },
+            "active": true,
+            "name": "Mohamad Ali Kesserwan",
+            "position": "PhD Candidate",
+            "department": "Neuroscience",
+            "supervisor": "Co-supervised by Dr. Lyle Muller",
+            "img": "./people-images/mk.png",
+            "socialLinks": {
+                "github": "https://github.com/mkesserwan",
+                "email": "mailto:mkesserw@uwo.ca"
+            },
             "bio": "Mohamad completed his Bachelor of Science with specialization in Human Biology from the University of Toronto. He then completed his Doctor of Medicine at McMaster Univerity, where he is currently completing his residency in Neurosurgery. Through McMaster's Clinician Investigator Program, Mohamad was able to join our lab to pursue a doctorate in computational neuroscience. Mohamad is particularly interested in advancing brain-machine interfaces to empower patients with neurological disabilities."
         }
     ],
@@ -97,11 +96,52 @@
                 "google_scholar": ""
             },
             "bio": "Hi! I'm a Master's student in the AIMS lab and is researching applications of dMRI on epilepsy. Specifically, I'm using dMRI to map out the limbic circuit reliably."
-        }
+        },
+        {
+        "active": true, 
+        "name": "Maye Hussein",
+        "position": "Master's Student",
+        "department": "Biomedical Engineering",
+        "supervisor": "Co-supervised by Dr. Ali Khan",
+        "img": "./people-images/Maye.jpeg",
+        "socialLinks": { 
+            "linkedin": "https://eg.linkedin.com/in/mayekhaled0",
+            "github": "https://github.com/mayekhaled0/",
+            "email": "mkhaled5@uwo.ca"
+        },
+            "bio": "I earned my Bachelor's degree in Biomedical Engineering from Cairo University"
+    }
     ],
     "Lab Members": [
+            {
+        "active": true,
+        "name": "Derek D. George, MD",
+        "position": "Visiting Research Fellow",
+        "department": "London Health Sciences Centre/Robarts Research Institute",
+        "supervisor": "Dr. Jonathan Lau",
+        "img": "./people-images/Derek.jpg",
+        "socialLinks": {
+            "github": "https://github.com/Derbedog",
+            "email": "mailto:derek_george@urmc.rochester.edu"
+        },
+        "bio": "I am a PGY-6 neurosurgery resident at the University of Rochester, NY, USA. Through the AMPLify grant from the American Society for Stereotactic and Functional Neurosurgery (ASSFN), I am spending 3 months in the AIMS lab working on projects related to 7TMRI and stereoelectroencephalography (SEEG)."
+    },
+    {
+        "active": true,
+        "name": "Jaime Thrower",
+        "position": "Research Software Developer Co-op Student",
+        "department": "Biomedical Engineering",
+        "supervisor": "Co-supervised by Dr. Ali Khan",
+        "img": "./people-images/jaime.png",
+        "socialLinks": {
+            "linkedin": "https://www.linkedin.com/in/jaime-thrower-a09528220/",
+            "github": "https://github.com/thrower19",
+            "email": "mailto:jthrower@uwaterloo.ca"
+        },
+        "bio": "I am a University of Waterloo biomedical engineering student and I am working as a research software developer for my co-op placement. I assist with various software projects in the field of Computational Neuroimaging."
+    },    
         {
-            "active": true,
+            "active": false,
             "name": "Mackenzie Snyder",
             "position": "Research Software Developer Co-op Student",
             "department": "Biomedical Engineering",
@@ -128,7 +168,7 @@
             },
             "bio": "I am a junior astrophysicist turned research software engineer with experience developing telescope software (CASTOR, HIRAX). Now focused on computational neuroscience, I work on various neuroimaging projects at Robarts Research Institute, including AutoAFIDs and HippUnfold, building research-driven software tools."
         },
-                {
+        {
             "active": true,
             "name": "Arun Thurairajah",
             "position": "Neurophysiologist",
@@ -193,6 +233,48 @@
                 "email": "mailto:kgalla44@uwo.ca"
             },
             "bio": "I am currently a research assistant and lab manager at the AIMS Lab, while additionally assisting in research at the Developing Brain Lab."
+        },
+      {
+            "active": false,
+            "name": "Jason Kai, PhD",
+            "position": "Research Software Developer",
+            "department": "Robarts Research Institute",
+            "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
+            "img": "./people-images/jason.jpg",
+            "socialLinks": {
+                "linkedin": "https://www.linkedin.com/in/jasonkai",
+                "github": "https://github.com/kaitj",
+                "email": "mailto:jasonkai7@gmail.com",
+                "orcid": "https://orcid.org/0000-0002-7074-6348",
+                "google_scholar": "https://scholar.google.com/citations?user=IZrvr8kAAAAJ&hl=en"
+            },
+                "bio": "After completing my PhD in the Khan Lab, I continued as a research software developer with the Khan and AIMs Labs, building tools to support neuroscience research. I’m now a postdoctoral fellow at the Child Mind Institute, where I develop methods to study how brain structure and function interact and engineer scalable infrastructure to make large-scale research more reproducible"
+        },
+        {
+            "active": false,
+            "name": "Wenyao Xia",
+            "position": "Former Post-doc Associate",
+            "department": "Robarts Research Institute / Western University",
+            "supervisor": "Dr. Jonathan Lau and Dr. Ali Khan",
+            "img": "./people-images/wenyao.jpg",
+            "socialLinks": {
+                "email": "mailto:wxia43@uwo.ca"
+            },
+            "bio": "I am the former collaborating post-doc associate on the 3D-2D cortical image registration project. My research interests include image processing, registration for surgical guidance, and image artifact removal"
+        },
+        {
+            "active": false,
+            "name": "Feyi Ogunsanya",
+            "position": "Former Undergraduate Student",
+            "department": "Medical Biophysics",
+            "supervisor": "Dr. Jonathan Lau",
+            "img": "./people-images/feyi.jpg",
+            "socialLinks": {
+                "github": "https://github.com/fogunsan",
+                "linkedin": "https://www.linkedin.com/in/feyiogunsanya/",
+                "email": "mailto:feyi.ogunsanya@gmail.com"
+            },
+            "bio": "I was a former medical biophysics undergraduate student in the AIMS Lab and researched MRI modality conversion. I did my Master’s in Computer Science at Georgia Tech, focusing on brain-computer interface research. I’m currently a Machine Learning Engineer at Waymo."
         }
     ]
 }
