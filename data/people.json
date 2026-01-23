@@ -180,6 +180,19 @@
                 "email": "mailto:yzha4825@uwo.ca"
             },
                 "bio": "I am recent graduate from Western’s Medical Sciences program (physiology specialization with Scholar’s Elective program) and will be beginning medical school in fall 2025. Currently, I’m working on an AFIDs project to increase the accuracy of image registration quality control and improve the standardization of neuroimaging workflows. My research interests are in neuroimaging, neurodegenerative diseases, and recently healthcare technology."
+        },
+        {
+            "active": true,
+            "name": "Keira Gallagher",
+            "position": "Research Assistant & Lab Manager",
+            "department": "Western University / Robarts Research Institute",
+            "supervisor": "Dr. Jonathan Lau and Dr. Emma Duerden",
+            "img": "./people-images/keira.jpg",
+            "socialLinks": {
+                "linkedin": "https://www.linkedin.com/in/keira-g",
+                "email": "mailto:kgalla44@uwo.ca"
+            },
+            "bio": "I am currently a research assistant and lab manager at the AIMS Lab, while additionally assisting in research at the Developing Brain Lab."
         }
     ]
 }
