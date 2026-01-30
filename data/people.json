@@ -234,7 +234,19 @@
             },
             "bio": "I am currently a research assistant and lab manager at the AIMS Lab, while additionally assisting in research at the Developing Brain Lab."
         },
-      {
+        {
+            "active": true,
+            "name": "Suzan Brown",
+            "position": "Research Coordinator",
+            "department": "London Health Sciences Centre",
+            "supervisor": "Dr. Jonathan Lau",
+            "img": "./people-images/suzanbrown.jpg",
+            "socialLinks": {
+                "linkedin": "https://www.linkedin.com/in/suzan-brown-a8437831",
+                "email": "mailto:Suzan.Brown@lhsc.on.ca"
+            },
+        },
+        {
             "active": false,
             "name": "Jason Kai, PhD",
             "position": "Research Software Developer",
