@@ -110,7 +110,20 @@
             "email": "mkhaled5@uwo.ca"
         },
             "bio": "I earned my Bachelor's degree in Biomedical Engineering from Cairo University"
-    }
+        },
+        {
+        "active": false, 
+        "name": "Marie Tsai",
+        "position": "Master's Student",
+        "department": "Anatomy and Cell Biology",
+        "supervisor": "Co-supervised by Dr. Ali Khan",
+        "img": "./people-images/Marie.jpg",
+        "socialLinks": { 
+            "linkedin": "https://eg.linkedin.com/in/marietsai",
+            "email": "marie.tsai@humber.ca"
+        },
+            "bio": "Marie completed her MSc in Clinical Anatomy in 2025, where her research focused on optimizing ex vivo brain MRI as part of a multimodal workflow for characterizing the human subcortex. Marie currently works at Humber Polytechnic as a Bioscience Lab Specialist and still occasionally frolics in the Fields of Forel."
+        }
     ],
     "Lab Members": [
             {
