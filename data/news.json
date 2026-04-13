@@ -36,5 +36,12 @@
         "subheading": "Joy recieves BrainsCAN Summer Intern Scholarship",
         "content": "Joy recieves BrainsCAN Summer Intern Scholarship",
         "img": "./news-images/test-image.png"
+    },
+    {
+        "title": "Western Epilepsy Research Day",
+        "date": "2026-02-06",
+        "subheading": "Dilyar recieves Best Poster Award",
+        "content": "Dilyar recieves Best Poster Award",
+        "img": "./news-images/dilyarposter.jpg"
     }
 ]
