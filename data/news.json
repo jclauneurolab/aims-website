@@ -1,5 +1,12 @@
 [
     {
+        "title": "Western Epilepsy Research Day",
+        "date": "2026-02-06",
+        "subheading": "Dilyar receives Best Poster Award",
+        "content": "Dilyar receives Best Poster Award",
+        "img": "./news-images/dilyarposter.jpg"
+    },
+    {
         "title": "Alaa successfully defended his PhD Dissertation!",
         "link": "https://bsky.app/profile/jclauneuro.bsky.social/post/3lulixk6f7s2m",
         "date": "2025-07-22",
@@ -36,12 +43,5 @@
         "subheading": "Joy recieves BrainsCAN Summer Intern Scholarship",
         "content": "Joy recieves BrainsCAN Summer Intern Scholarship",
         "img": "./news-images/test-image.png"
-    },
-    {
-        "title": "Western Epilepsy Research Day",
-        "date": "2026-02-06",
-        "subheading": "Dilyar receives Best Poster Award",
-        "content": "Dilyar receives Best Poster Award",
-        "img": "./news-images/dilyarposter.jpg"
     }
 ]
