@@ -93,7 +93,7 @@
                 "orcid": "",
                 "google_scholar": ""
             },
-            "bio": "Hi! I'm an incoming MD-PhD candidate and my research focuses on the applications of dMRI on epilepsy, more specifically, using dMRI to map out the limbic circuit reliably."
+            "bio": "Dilyar is an incoming MD-PhD candidate in the AIMS lab and his research focuses on the applications of dMRI on epilepsy, more specifically, using dMRI to map out the limbic circuit reliably."
         }
     ],
     "Masters Students": [
@@ -109,7 +109,7 @@
             "github": "https://github.com/mayekhaled0/",
             "email": "mkhaled5@uwo.ca"
         },
-            "bio": "I earned my Bachelor's degree in Biomedical Engineering from Cairo University"
+            "bio": "Maye earned her Bachelor's degree in Biomedical Engineering from Cairo University"
         },
         {
         "active": false, 
@@ -137,7 +137,7 @@
             "github": "https://github.com/Derbedog",
             "email": "mailto:derek_george@urmc.rochester.edu"
         },
-        "bio": "I am a PGY-7 neurosurgery resident at the University of Rochester, NY, USA. Through the AMPLify grant from the American Society for Stereotactic and Functional Neurosurgery (ASSFN), I am spending 3 months in the AIMS lab working on projects related to 7TMRI and stereoelectroencephalography (SEEG)."
+        "bio": "Derek is a PGY-7 neurosurgery resident at the University of Rochester, NY, USA. Through the AMPLify grant from the American Society for Stereotactic and Functional Neurosurgery (ASSFN), he spent 3 months in the AIMS lab working on projects related to 7TMRI and stereoelectroencephalography (SEEG)."
     },
     {
         "active": true,
@@ -151,7 +151,7 @@
             "github": "https://github.com/thrower19",
             "email": "mailto:jthrower@uwaterloo.ca"
         },
-        "bio": "I am a University of Waterloo biomedical engineering student and I am working as a research software developer for my co-op placement. I assist with various software projects in the field of Computational Neuroimaging."
+        "bio": "Jamie is a University of Waterloo biomedical engineering student and is working as a research software developer for a co-op placement. She assists with various software projects in the field of Computational Neuroimaging."
     },    
         {
             "active": false,
@@ -165,11 +165,11 @@
                 "github": "https://github.com/mackenziesnyder",
                 "email": "mailto:mackenziesnyder222@gmail.com"
             },
-            "bio": "I am a research software developer co-op student in the lab and I am a biomedical engineering undergraduate student from the University of Waterloo. My work in the lab consists of assisting and contributing to various lab software projects in the field of computational neuro imaging."
+            "bio": "Mackenzie was a research software developer co-op student in the lab and a biomedical engineering undergraduate student from the University of Waterloo. Her work in the lab consisted of assisting and contributing to various lab software projects in the field of computational neuro imaging."
         },
         {
             "active": false,
-            "name": "Dhananjhay Bansal (Djay)",
+            "name": "Dhananjhay Bansal",
             "position": "Research Software Engineer",
             "department": "Robarts Research Institute",
             "supervisor": "Co-supervised by Dr. Ali Khan",
@@ -179,7 +179,7 @@
                 "github": "https://github.com/Dhananjhay",
                 "email": "mailto:dbansal7@uwo.ca"
             },
-            "bio": "I am a junior astrophysicist turned research software engineer and during my time in the AIMS lab I focused on various neuroimaging projects, including AutoAFIDs and HippUnfold. Now, I'm pursuing a DPhil in computational radiation oncology at Institute of Cancer Research, London."
+            "bio": "Dhananjhay was a research software engineer in the AIMS lab and worked on various neuroimaging projects, including AutoAFIDs and HippUnfold. He's now pursuing a DPhil in computational radiation oncology at the Institute of Cancer Research, London."
         },
         {
             "active": true,
@@ -192,7 +192,7 @@
                 "github": "https://github.com/arunthurai",
                 "email": "mailto:a.thurairajah1@gmail.com"
             },
-            "bio": "I finished my Master's in Neuroscience with the AIMs and Khan Labs in 2024, where I used deep learning to segment intracranial electrode contacts from post-operative imaging. I currently support intraoperative neurophysiological monitoring for Deep Brain Stimulation at LHSC."
+            "bio": "Arun finished his Master's in Neuroscience with the AIMs and Khan Labs in 2024, where he used deep learning to segment intracranial electrode contacts from post-operative imaging. He currently supports intraoperative neurophysiological monitoring for Deep Brain Stimulation at LHSC."
         },
         {
             "active": false,
@@ -205,7 +205,7 @@
                 "github": "https://github.com/mld-khaki",
                 "email": "mailto:mkhaki@uwo.ca"
             },
-            "bio": "I am a research data scientist working at the intersection of neuroscience and data infrastructure. At LHSC, I support SEEG research and clinical workflows by developing scalable pipelines for data anonymization, format conversion, validation, and archival. My background and interest also extends to application of NLP, LLM, and deep learning models in clinical applications, as well as hardware integration for patient recording systems."
+            "bio": "Milad was a research data scientist working at the intersection of neuroscience and data infrastructure. At LHSC, he supported SEEG research and clinical workflows by developing scalable pipelines for data anonymization, format conversion, validation, and archival. His background and interest also extends to application of NLP, LLM, and deep learning models in clinical applications, as well as hardware integration for patient recording systems."
         },
         {
             "active": false,
@@ -219,7 +219,7 @@
                 "linkedin": "https://www.linkedin.com/in/homavahidi",
                 "email": "mailto:hvahidi2@uwo.ca"
             },
-            "bio": "I am the AIMS lab former lab manager and I continue to collaborate with the AIMS lab on several clinical and basic-science projects. I am currently a MD student at Stanford University."
+            "bio": "Homa was the AIMS lab former lab manager and continues to collaborate with the AIMS lab on several clinical and basic-science projects. She is currently an MD student at Stanford University."
         },
         {
             "active": true,
@@ -232,7 +232,7 @@
                 "linkedin": "https://www.linkedin.com/in/joyzhao03/",
                 "email": "mailto:yzha4825@uwo.ca"
             },
-                "bio": "I am recent graduate from Western’s Medical Sciences program (physiology specialization with Scholar’s Elective program) and will be beginning medical school in fall 2025. Currently, I’m working on an AFIDs project to increase the accuracy of image registration quality control and improve the standardization of neuroimaging workflows. My research interests are in neuroimaging, neurodegenerative diseases, and recently healthcare technology."
+                "bio": "Joy graduated from Western’s Medical Sciences program (physiology specialization with Scholar’s Elective program) and is pursuiing medical school at the University of Toronto. Currently, she's working on an AFIDs project to increase the accuracy of image registration quality control and improve the standardization of neuroimaging workflows. Her research interests are in neuroimaging, neurodegenerative diseases, and recently healthcare technology."
         },
         {
             "active": false,
@@ -245,7 +245,7 @@
                 "linkedin": "https://www.linkedin.com/in/keira-g",
                 "email": "mailto:kgalla44@uwo.ca"
             },
-            "bio": "I am currently a research assistant and lab manager at the AIMS Lab, while additionally assisting in research at the Developing Brain Lab. I'm now pursuing a PhD in clinical psychology at the University of Toronto."
+            "bio": "Keira was a former research assistant and lab manager at the AIMS Lab, while additionally assisting in research at the Developing Brain Lab. She's now pursuing a PhD in clinical psychology at the University of Toronto."
         },
         {
             "active": true,
@@ -273,7 +273,7 @@
                 "orcid": "https://orcid.org/0000-0002-7074-6348",
                 "google_scholar": "https://scholar.google.com/citations?user=IZrvr8kAAAAJ&hl=en"
             },
-                "bio": "After completing my PhD in the Khan Lab, I continued as a research software developer with the Khan and AIMs Labs, building tools to support neuroscience research. I’m now a postdoctoral fellow at the Child Mind Institute, where I develop methods to study how brain structure and function interact and engineer scalable infrastructure to make large-scale research more reproducible"
+                "bio": "After completing his PhD in the Khan Lab, Jason continued as a research software developer with the Khan and AIMs Labs, building tools to support neuroscience research. He is now a postdoctoral fellow at the Child Mind Institute, where he develops methods to study how brain structure and function interact and engineer scalable infrastructure to make large-scale research more reproducible"
         },
         {
             "active": false,
@@ -285,7 +285,7 @@
             "socialLinks": {
                 "email": "mailto:wxia43@uwo.ca"
             },
-            "bio": "I am the former collaborating post-doc associate on the 3D-2D cortical image registration project. My research interests include image processing, registration for surgical guidance, and image artifact removal"
+            "bio": "Wenyao is the former collaborating post-doc associate on the 3D-2D cortical image registration project. His research interests include image processing, registration for surgical guidance, and image artifact removal"
         },
         {
             "active": false,
@@ -299,7 +299,7 @@
                 "linkedin": "https://www.linkedin.com/in/feyiogunsanya/",
                 "email": "mailto:feyi.ogunsanya@gmail.com"
             },
-            "bio": "I was a former medical biophysics undergraduate student in the AIMS Lab and researched MRI modality conversion. I did my Master’s in Computer Science at Georgia Tech, focusing on brain-computer interface research. I’m currently a Machine Learning Engineer at Waymo."
+            "bio": "Feyi was a former medical biophysics undergraduate student in the AIMS Lab and researched MRI modality conversion. She did her Master’s in Computer Science at Georgia Tech, focusing on brain-computer interface research. She is currently a Machine Learning Engineer at Waymo."
         }
     ]
 }
