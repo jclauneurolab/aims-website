@@ -80,7 +80,7 @@
             "bio": "Mohamad completed his Bachelor of Science with specialization in Human Biology from the University of Toronto. He then completed his Doctor of Medicine at McMaster Univerity, where he is currently completing his residency in Neurosurgery. Through McMaster's Clinician Investigator Program, Mohamad was able to join our lab to pursue a doctorate in computational neuroscience. Mohamad is particularly interested in advancing brain-machine interfaces to empower patients with neurological disabilities."
         },
                 {
-            "active": false,
+            "active": true,
             "name": "Dilyar Deniz",
             "position": "MD-PhD Candidate",
             "department": "Biomedical Engineering",
