@@ -36,7 +36,7 @@
     ],
     "PhD Students": [
         {
-            "active": true,
+            "active": false,
             "name": "Alaa Taha",
             "position": "PhD Candidate",
             "department": "Biomedical Engineering",
@@ -49,7 +49,7 @@
                 "orcid": "https://orcid.org/0000-0003-3165-9169",
                 "google_scholar": "https://scholar.google.com/citations?user=453eH-8AAAAJ&hl=en&oi=sra"
             },
-            "bio": "Alaa's current research interests revolve around improving the accuracy and efficacy of neurosurgical interventions using ultra-high field imaging (>= 7-Tesla) and AI."
+            "bio": "Alaa's research interests revolve around improving the accuracy and efficacy of neurosurgical interventions using ultra-high field imaging (>= 7-Tesla) and AI. He's currently an MD candidate at Stanford Univeristy."
         },
         {
             "active": true,
@@ -78,13 +78,11 @@
                 "email": "mailto:mkesserw@uwo.ca"
             },
             "bio": "Mohamad completed his Bachelor of Science with specialization in Human Biology from the University of Toronto. He then completed his Doctor of Medicine at McMaster Univerity, where he is currently completing his residency in Neurosurgery. Through McMaster's Clinician Investigator Program, Mohamad was able to join our lab to pursue a doctorate in computational neuroscience. Mohamad is particularly interested in advancing brain-machine interfaces to empower patients with neurological disabilities."
-        }
-    ],
-    "Masters Students": [
-        {
-            "active": true,
+        },
+                {
+            "active": false,
             "name": "Dilyar Deniz",
-            "position": "Master's Student",
+            "position": "MD-PhD Candidate",
             "department": "Biomedical Engineering",
             "supervisor": "Co-supervised by Dr. Ali Khan",
             "img": "./people-images/dilyar.png",
@@ -95,8 +93,10 @@
                 "orcid": "",
                 "google_scholar": ""
             },
-            "bio": "Hi! I'm a Master's student in the AIMS lab and is researching applications of dMRI on epilepsy. Specifically, I'm using dMRI to map out the limbic circuit reliably."
-        },
+            "bio": "Hi! I previously did my Master's in the AIMS lab in researching applications of dMRI on epilepsy, more specifically, using dMRI to map out the limbic circuit reliably. I'm now coming back as an MD-PhD candidate to continue working on the same area of research."
+        }
+    ],
+    "Masters Students": [
         {
         "active": true, 
         "name": "Maye Hussein",
@@ -137,7 +137,7 @@
             "github": "https://github.com/Derbedog",
             "email": "mailto:derek_george@urmc.rochester.edu"
         },
-        "bio": "I am a PGY-6 neurosurgery resident at the University of Rochester, NY, USA. Through the AMPLify grant from the American Society for Stereotactic and Functional Neurosurgery (ASSFN), I am spending 3 months in the AIMS lab working on projects related to 7TMRI and stereoelectroencephalography (SEEG)."
+        "bio": "I am a PGY-7 neurosurgery resident at the University of Rochester, NY, USA. Through the AMPLify grant from the American Society for Stereotactic and Functional Neurosurgery (ASSFN), I am spending 3 months in the AIMS lab working on projects related to 7TMRI and stereoelectroencephalography (SEEG)."
     },
     {
         "active": true,
@@ -168,7 +168,7 @@
             "bio": "I am a research software developer co-op student in the lab and I am a biomedical engineering undergraduate student from the University of Waterloo. My work in the lab consists of assisting and contributing to various lab software projects in the field of computational neuro imaging."
         },
         {
-            "active": true,
+            "active": false,
             "name": "Dhananjhay Bansal (Djay)",
             "position": "Research Software Engineer",
             "department": "Robarts Research Institute",
@@ -179,7 +179,7 @@
                 "github": "https://github.com/Dhananjhay",
                 "email": "mailto:dbansal7@uwo.ca"
             },
-            "bio": "I am a junior astrophysicist turned research software engineer with experience developing telescope software (CASTOR, HIRAX). Now focused on computational neuroscience, I work on various neuroimaging projects at Robarts Research Institute, including AutoAFIDs and HippUnfold, building research-driven software tools."
+            "bio": "I am a junior astrophysicist turned research software engineer and during my time in the AIMS lab I focused on various neuroimaging projects, including AutoAFIDs and HippUnfold. Now, I'm pursuing a DPhil in computational radiation oncology at Institute of Cancer Research, London."
         },
         {
             "active": true,
@@ -195,7 +195,7 @@
             "bio": "I finished my Master's in Neuroscience with the AIMs and Khan Labs in 2024, where I used deep learning to segment intracranial electrode contacts from post-operative imaging. I currently support intraoperative neurophysiological monitoring for Deep Brain Stimulation at LHSC."
         },
         {
-            "active": true,
+            "active": false,
             "name": "Milad Khaki, PhD",
             "position": "Research Data Scientist",
             "department": "London Health Sciences Centre / Western University",
@@ -235,7 +235,7 @@
                 "bio": "I am recent graduate from Western’s Medical Sciences program (physiology specialization with Scholar’s Elective program) and will be beginning medical school in fall 2025. Currently, I’m working on an AFIDs project to increase the accuracy of image registration quality control and improve the standardization of neuroimaging workflows. My research interests are in neuroimaging, neurodegenerative diseases, and recently healthcare technology."
         },
         {
-            "active": true,
+            "active": false,
             "name": "Keira Gallagher",
             "position": "Research Assistant & Lab Manager",
             "department": "Western University / Robarts Research Institute",
