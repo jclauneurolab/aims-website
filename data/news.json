@@ -1,47 +1,110 @@
 [
     {
+        "title": "Violet successfully defended her PhD thesis!",
+        "date": "2026-09-11",
+        "subheading": "Violet PhD.",
+        "content": "We are so proud of Violet Liu for successfully defending her thesis -- with the Goblet of Knowledge. Incredibly fortunate to work with her & Dr. Ali Khan over the last few years on mapping the zona incerta! Thanks also to examiners Dr. Duerden, Dr. Seminowicz, Dr. Qi Zhang and external examiner, Dr. Melissa Chee for their time and support of her dissertation! Congrats once again Dr. Liu!",
+        "img": "./news-images/20260911_Violet_PhD.jpeg"
+    },
+    {
+        "title": "Summer lab brunch",
+        "date": "2026-07-31",
+        "subheading": "Summer AIMS lab outing.",
+        "content": "A great opportunity to celebrate the lab. A welcome to Dr. Ruby Malik as lab manager and postdoctoral fellow. Also wishing the best to several lab members moving on including Keira, Jaime, Djay. All the best with future endeavours!",
+        "img": "./news-images/20260731_Lab_Brunch.jpg"
+    },
+    {
+        "title": "Dilyar successfully defended his MEng thesis!",
+        "date": "2026-07-14",
+        "subheading": "Dilyar MEng.",
+        "content": "Dilyar successfully defended his MEng on the structural connectome of the limbic circuit. We are lucky to have Dilyar continuing on as an MD/PhD candidate here at Western.",
+        "img": "./news-images/20260714_Dilyar_MEng.jpg"
+    },
+    {
+        "title": "Talk by Roy at OHBM",
+        "date": "2026-06-15",
+        "subheading": "Roy talk on zona incerta.",
+        "content": "Dr. Roy Haast spoke on zona incerta imaging at OHBM.",
+        "img": "./news-images/20260615_Roy_OHBM.jpg"
+    },
+    {
+        "title": "Djay talk at CNS Research Day",
+        "date": "2026-06-09",
+        "subheading": "Djay talk on cZI.",
+        "content": "Dhananjhay spoke on cZI prediction at the annual department research day.",
+        "img": "./news-images/20260609_Djay_CNS_ResearchDay.jpg"
+    },
+    {
+        "title": "Auto-AFIDs talk by Alaa at ASSFN",
+        "date": "2026-06-02",
+        "subheading": "Alaa ASSFN talk.",
+        "content": "Alaa Taha presented our auto-AFIDs project (#preprint coming soon).",
+        "img": "./news-images/20260602_ASSFN_02.jpeg"
+    },
+    {
+        "title": "7T SEEG talk by Derek at ASSFN for AMPLify Program",
+        "date": "2026-06-02",
+        "subheading": "Great talk as part of AMPLify program!",
+        "content": "Derek George spoke on our work integrating 7T MRI for SEEG.",
+        "img": "./news-images/20260602_ASSFN_03.jpeg"
+    },
+    {
+        "title": "ASSFN Meeting in Cleveland, OH",
+        "date": "2026-06-02",
+        "subheading": "AIMS lab at ASSFN.",
+        "content": "Proud of the representation from the AIMS lab 🧠 🎯!",
+        "img": "./news-images/20260602_ASSFN_01.jpeg"
+    },
+    {
+        "title": "ASNR Talk in Austin, TX",
+        "date": "2026-05-20",
+        "subheading": "Talk on 7T at ASNR.",
+        "content": "Enjoyed sharing our experience at Western / LHSC integrating 7T MRI into neurosurgical practice (over 250 cases now) with neuroradiology colleagues.",
+        "img": "./news-images/20260520_ASNR.jpeg"
+    },
+    {
         "title": "Western Epilepsy Research Day",
         "date": "2026-02-06",
-        "subheading": "Dilyar receives Best Poster Award",
-        "content": "Dilyar receives Best Poster Award",
+        "subheading": "Dilyar receives Best Poster Award.",
+        "content": "Dilyar receives Best Poster Award.",
         "img": "./news-images/dilyarposter.jpg"
     },
     {
         "title": "Alaa successfully defended his PhD Dissertation!",
         "link": "https://bsky.app/profile/jclauneuro.bsky.social/post/3lulixk6f7s2m",
         "date": "2025-07-22",
-        "subheading": "Alaa PhD",
-        "content": "We are so proud of Alaa Taha for successfully defending his thesis -- with the Goblet of Knowledge. Alaa is the first PhD grad of the AIMS lab!🎯. Incredibly fortunate to work with him & Dr. Ali Khan over the last few years on the AFIDs project! Thanks also to examiners Dr. Duerden, Dr. Mattonen, Dr. Angela Roberts, and external examiner, Dr. Erik Middlebrooks for their time and support of his dissertation! Congrats once again Dr. Taha!",
+        "subheading": "Alaa PhD.",
+        "content": "We are so proud of Alaa Taha for successfully defending his thesis -- with the Goblet of Knowledge. Alaa is the first PhD grad of the AIMS lab!🎯 Incredibly fortunate to work with him & Dr. Ali Khan over the last few years on the AFIDs project! Thanks also to examiners Dr. Duerden, Dr. Mattonen, Dr. Angela Roberts, and external examiner, Dr. Erik Middlebrooks for their time and support of his dissertation! Congrats once again Dr. Taha!",
         "img": "./news-images/20250722_Alaa_PhD.png"
     },
     {
         "title": "Dr. Middlebrooks Guest Speaker",
         "link": "https://bsky.app/profile/jclauneuro.bsky.social/post/3luli2qxzm22m",
         "date": "2025-07-22",
-        "subheading": "Middlebrooks Guest Speaker",
+        "subheading": "Middlebrooks Guest Speaker.",
         "content": "We were fortunate to have Dr. Erik Middlebrooks visit London, Ontario and give a special summer rounds talk while at Western University/LHSC. Standing room only! Dr. Middlebrooks spoke about Clinical Applications of 7T and his experience at the Mayo Clinic before moving on to examine Alaa Taha's PhD thesis.",
         "img": "./news-images/20250722_Middlebrooks.png"
     },
     {
-        "title": "Marie and Arun Graduate",
+        "title": "Marie and Arun graduate",
         "date": "2025-06-11",
         "subheading": "Congrats Marie and Arun!!",
-        "content": "Congrats Marie and Arun!!.",
+        "content": "Congrats on completing your Master's degrees in Clinical Anatomy and Neuroscience respectively, Marie and Arun!!",
         "img": "./news-images/marie_and_arun_graduate.png"
     },
     {
         "title": "Francis Chan Humanitarian Prize",
         "date": "2025-05-21",
-        "subheading": "Marie recieves Francis Chan Humanitarian Prize",
-        "content": "We are thrilled to inform you that you have been selected as the recipient of the 2025 Anatomy and Cell Biology, Clinical Anatomy ‘Francis Chan Humanitarian Prize’!",
+        "subheading": "Marie receives Francis Chan Humanitarian Prize.",
+        "content": "Marie was selected as the recipient of the 2025 Anatomy and Cell Biology, Clinical Anatomy ‘Francis Chan Humanitarian Prize’!",
         "img": "./news-images/test-image.png"
     },
     {
         "title": "BrainsCAN Summer Intern Scholarship",
         "link":"https://brainscan.uwo.ca/research/interns.html#JoyZhao",
         "date": "2025-05-01",
-        "subheading": "Joy recieves BrainsCAN Summer Intern Scholarship",
-        "content": "Joy recieves BrainsCAN Summer Intern Scholarship",
+        "subheading": "Joy receives BrainsCAN Summer Intern Scholarship.",
+        "content": "Joy receives BrainsCAN Summer Intern Scholarship.",
         "img": "./news-images/test-image.png"
     }
 ]
