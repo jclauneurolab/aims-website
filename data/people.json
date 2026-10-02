@@ -4,7 +4,7 @@
             "active": true,
             "name": "Jonathan C. Lau, MD, PhD, FRCSC",
             "position": "Assistant Professor of Neurosurgery, Western University",
-            "department": " Clinical Neurological Sciences",
+            "department": "Clinical Neurological Sciences",
             "img": "/people-images/Jclau.png",
             "socialLinks": {
                 "linkedin": "https://www.linkedin.com/in/jonathanclau",
@@ -22,7 +22,7 @@
             "name": "Diego B. Piza, MD, PhD",
             "position": "Postdoctoral Fellow",
             "department": "Clinical Neurological Sciences",
-            "supervisor": "Co-supervised by Dr. Terry Peters & Dr. Julio Martinez-Trujillo",
+            "supervisor": "Co-supervised by Dr. Terry Peters",
             "img": "./people-images/diego.jpg",
             "socialLinks": {
                 "linkedin": "https://www.linkedin.com/in/diegobpiza/",
@@ -32,6 +32,16 @@
                 "google_scholar": "https://scholar.google.com/citations?user=zEI4nywAAAAJ&hl=en"
             },
             "bio": "Diego's research is broadly centred on leveraging electrophysiology, data science and systems neuroscience to help understand brain function in health and disease."
+        },
+        {
+            "active": true,
+            "name": "Rubina Malik, PhD",
+            "position": "Postdoctoral Fellow & Lab Manager",
+            "department": "Clinical Neurological Sciences",
+            "supervisor": "Co-supervised by Dr. Emma Duerden",
+            "img": "./people-images/rubina.png",
+            "socialLinks": {},
+            "bio": "Dr. Ruby Malik completed a PhD in the lab of Dr. Elizabeth Finger. Her research is broadly centred on understanding the neural substrates of apathy and their impact on clinical populations."
         }
     ],
     "PhD Students": [
@@ -49,7 +59,7 @@
                 "orcid": "https://orcid.org/0000-0003-3165-9169",
                 "google_scholar": "https://scholar.google.com/citations?user=453eH-8AAAAJ&hl=en&oi=sra"
             },
-            "bio": "Alaa's research interests revolve around improving the accuracy and efficacy of neurosurgical interventions using ultra-high field imaging (>= 7-Tesla) and AI. He's currently an MD candidate at Stanford Univeristy."
+            "bio": "Alaa's research interests revolve around improving the accuracy and efficacy of neurosurgical interventions using ultra-high field imaging (>= 7-Tesla) and AI. He's currently an MD candidate at Stanford University."
         },
         {
             "active": true,
@@ -77,11 +87,11 @@
                 "github": "https://github.com/mkesserwan",
                 "email": "mailto:mkesserw@uwo.ca"
             },
-            "bio": "Mohamad completed his Bachelor of Science with specialization in Human Biology from the University of Toronto. He then completed his Doctor of Medicine at McMaster Univerity, where he is currently completing his residency in Neurosurgery. Through McMaster's Clinician Investigator Program, Mohamad was able to join our lab to pursue a doctorate in computational neuroscience. Mohamad is particularly interested in advancing brain-machine interfaces to empower patients with neurological disabilities."
+            "bio": "Mohamad completed his Bachelor of Science with specialization in Human Biology from the University of Toronto. He then completed his Doctor of Medicine at McMaster University, where he is currently completing his residency in Neurosurgery. Through McMaster's Clinician Investigator Program, Mohamad was able to join our lab to pursue a doctorate in computational neuroscience. Mohamad is particularly interested in advancing brain-machine interfaces to empower patients with neurological disabilities."
         },
                 {
             "active": true,
-            "name": "Dilyar Deniz",
+            "name": "Dilyar Deniz, MEng",
             "position": "MD-PhD Candidate",
             "department": "Biomedical Engineering",
             "supervisor": "Co-supervised by Dr. Ali Khan",
@@ -93,10 +103,20 @@
                 "orcid": "",
                 "google_scholar": ""
             },
-            "bio": "Dilyar is an incoming MD-PhD candidate in the AIMS lab and his research focuses on the applications of dMRI on epilepsy, more specifically, using dMRI to map out the limbic circuit reliably."
+            "bio": "Dilyar is an incoming MD-PhD candidate in the AIMS lab and his research focuses on the applications of dMRI on epilepsy, more specifically, using dMRI to map out the limbic circuit reliably. He previously completed an MEng in biomedical engineering in the AIMS lab focussed on the limbic connectome."
+        },
+        {
+            "active": true,
+            "name": "Mohamad Abbass, MD, FRCSC",
+            "position": "PhD Candidate",
+            "department": "Clinical Neurological Sciences",
+            "supervisor": "Co-supervised by Dr. Julio Martinez-Trujillo",
+            "img": "./people-images/abbass.png",
+            "socialLinks": {},
+            "bio": "Dr. Mohamad Abbass completed his neurosurgical residency at Western. His research is centred on the study of the lateral prefrontal cortex using single neuron recordings."
         }
     ],
-    "Masters Students": [
+    "Master's Students": [
         {
         "active": true, 
         "name": "Maye Hussein",
@@ -109,7 +129,7 @@
             "github": "https://github.com/mayekhaled0/",
             "email": "mkhaled5@uwo.ca"
         },
-            "bio": "Maye earned her Bachelor's degree in Biomedical Engineering from Cairo University"
+            "bio": "Maye earned her Bachelor's degree in Biomedical Engineering from Cairo University."
         },
         {
         "active": false, 
@@ -137,10 +157,10 @@
             "github": "https://github.com/Derbedog",
             "email": "mailto:derek_george@urmc.rochester.edu"
         },
-        "bio": "Derek is a PGY-7 neurosurgery resident at the University of Rochester, NY, USA. Through the AMPLify grant from the American Society for Stereotactic and Functional Neurosurgery (ASSFN), he spent 3 months in the AIMS lab working on projects related to 7TMRI and stereoelectroencephalography (SEEG)."
+        "bio": "Derek is a PGY-7 neurosurgery resident at the University of Rochester, NY, USA. Through the AMPLify grant from the American Society for Stereotactic and Functional Neurosurgery (ASSFN), he spent 3 months in the AIMS lab working on projects related to 7T MRI and stereoelectroencephalography (SEEG)."
     },
     {
-        "active": true,
+        "active": false,
         "name": "Jaime Thrower",
         "position": "Research Software Developer Co-op Student",
         "department": "Biomedical Engineering",
@@ -151,7 +171,7 @@
             "github": "https://github.com/thrower19",
             "email": "mailto:jthrower@uwaterloo.ca"
         },
-        "bio": "Jamie is a University of Waterloo biomedical engineering student and is working as a research software developer for a co-op placement. She assists with various software projects in the field of Computational Neuroimaging."
+        "bio": "Jaime is a University of Waterloo biomedical engineering student and is working as a research software developer for a co-op placement. She assists with various software projects in the field of Computational Neuroimaging."
     },    
         {
             "active": false,
@@ -165,7 +185,7 @@
                 "github": "https://github.com/mackenziesnyder",
                 "email": "mailto:mackenziesnyder222@gmail.com"
             },
-            "bio": "Mackenzie was a research software developer co-op student in the lab and a biomedical engineering undergraduate student from the University of Waterloo. Her work in the lab consisted of assisting and contributing to various lab software projects in the field of computational neuro imaging."
+            "bio": "Mackenzie was a research software developer co-op student in the lab and a biomedical engineering undergraduate student from the University of Waterloo. Her work in the lab consisted of assisting and contributing to various lab software projects in the field of computational neuroimaging."
         },
         {
             "active": false,
@@ -192,7 +212,7 @@
                 "github": "https://github.com/arunthurai",
                 "email": "mailto:a.thurairajah1@gmail.com"
             },
-            "bio": "Arun finished his Master's in Neuroscience with the AIMs and Khan Labs in 2024, where he used deep learning to segment intracranial electrode contacts from post-operative imaging. He currently supports intraoperative neurophysiological monitoring for Deep Brain Stimulation at LHSC."
+            "bio": "Arun finished his Master's in Neuroscience with the AIMS and Khan Labs in 2024, where he used deep learning to segment intracranial electrode contacts from post-operative imaging. He currently supports intraoperative neurophysiological monitoring for Deep Brain Stimulation at LHSC."
         },
         {
             "active": false,
@@ -205,7 +225,7 @@
                 "github": "https://github.com/mld-khaki",
                 "email": "mailto:mkhaki@uwo.ca"
             },
-            "bio": "Milad was a research data scientist working at the intersection of neuroscience and data infrastructure. At LHSC, he supported SEEG research and clinical workflows by developing scalable pipelines for data anonymization, format conversion, validation, and archival. His background and interest also extends to application of NLP, LLM, and deep learning models in clinical applications, as well as hardware integration for patient recording systems."
+            "bio": "Milad was a research data scientist working at the intersection of neuroscience and data infrastructure. At LHSC, he supported SEEG research and clinical workflows by developing scalable pipelines for data anonymization, format conversion, validation, and archival. His background and interests also extend to the application of NLP, LLM, and deep learning models in clinical applications, as well as hardware integration for patient recording systems."
         },
         {
             "active": false,
@@ -222,7 +242,7 @@
             "bio": "Homa was the AIMS lab former lab manager and continues to collaborate with the AIMS lab on several clinical and basic-science projects. She is currently an MD student at Stanford University."
         },
         {
-            "active": true,
+            "active": false,
             "name": "Joy Zhao",
             "position": "Undergraduate Student",
             "department": "Schulich Medicine and Dentistry",
@@ -232,7 +252,7 @@
                 "linkedin": "https://www.linkedin.com/in/joyzhao03/",
                 "email": "mailto:yzha4825@uwo.ca"
             },
-                "bio": "Joy graduated from Western’s Medical Sciences program (physiology specialization with Scholar’s Elective program) and is pursuiing medical school at the University of Toronto. Currently, she's working on an AFIDs project to increase the accuracy of image registration quality control and improve the standardization of neuroimaging workflows. Her research interests are in neuroimaging, neurodegenerative diseases, and recently healthcare technology."
+                "bio": "Joy graduated from Western’s Medical Sciences program (physiology specialization with Scholar’s Elective program) and is pursuing medical school at the University of Toronto. Currently, she's working on an AFIDs project to increase the accuracy of image registration quality control and improve the standardization of neuroimaging workflows. Her research interests are in neuroimaging, neurodegenerative diseases, and recently healthcare technology."
         },
         {
             "active": false,
@@ -260,6 +280,16 @@
             }
         },
         {
+            "active": true,
+            "name": "Emma Wiggins",
+            "position": "Undergraduate Medical Student",
+            "department": "Schulich Medicine and Dentistry",
+            "supervisor": "Dr. Jonathan Lau & Dr. David Seminowicz",
+            "img": "./people-images/wiggins.jpg",
+            "socialLinks": {},
+            "bio": "Emma is a medical student at Schulich in the Class of 2029 and is interested in better understanding pain and how that can translate into improved clinical outcomes for patients. She is currently working to understand more about the outcomes of neuromodulation procedures to treat severe chronic pain, in partnership with the kNOw Pain group. Outside of work and school, Emma enjoys travel, a variety of sports, and anything outdoors!"
+        },
+        {
             "active": false,
             "name": "Jason Kai, PhD",
             "position": "Research Software Developer",
@@ -273,7 +303,7 @@
                 "orcid": "https://orcid.org/0000-0002-7074-6348",
                 "google_scholar": "https://scholar.google.com/citations?user=IZrvr8kAAAAJ&hl=en"
             },
-                "bio": "After completing his PhD in the Khan Lab, Jason continued as a research software developer with the Khan and AIMs Labs, building tools to support neuroscience research. He is now a postdoctoral fellow at the Child Mind Institute, where he develops methods to study how brain structure and function interact and engineer scalable infrastructure to make large-scale research more reproducible"
+                "bio": "After completing his PhD in the Khan Lab, Jason continued as a research software developer with the Khan and AIMS Labs, building tools to support neuroscience research. He is now a postdoctoral fellow at the Child Mind Institute, where he develops methods to study how brain structure and function interact and engineer scalable infrastructure to make large-scale research more reproducible."
         },
         {
             "active": false,
@@ -285,7 +315,7 @@
             "socialLinks": {
                 "email": "mailto:wxia43@uwo.ca"
             },
-            "bio": "Wenyao is the former collaborating post-doc associate on the 3D-2D cortical image registration project. His research interests include image processing, registration for surgical guidance, and image artifact removal"
+            "bio": "Wenyao is the former collaborating post-doc associate on the 3D-2D cortical image registration project. His research interests include image processing, registration for surgical guidance, and image artifact removal."
         },
         {
             "active": false,
